@@ -1,0 +1,15 @@
+Ev, Su, Ev, Şey, Kum, Yol, Top, Raf, Söz, Kış, Pul, Yağ, Yer, Gün, Buz, Duş, Taş, Arı, Ses, Cam, Çam
+Yer, Kül, Sis, Gül, Aile, Film, Kamp, Grup, Doğa, Kuğu, Üzüm, Fare, Oyun, Şişe, Noel, İnek, Lale
+Uçuş, Saat, Yazı, Gece, Halı, Uçak, Ahır, Meşe, Bina, Kedi, Kaya, Veri, Ayna, Erik, Okul, Zırh, Uçak
+Park, Akrep, Hücre, Sokak, Deniz, Saksı, Havlu, Motor, Yunus, Güneş, Lamba, Ladin, Kirpi, Domuz
+Kalem, Horoz, Radyo, Balık, Şeker, Yüzük, Tavuk, Sayfa, Klips, Marul, Serçe, Fırın, Sütun, Bando
+Köpek, Damla, Şeker, Geyik, Şapka, Kahve, Bulut, Müzik, Tünel, Altın, Sabah, Orman, Kaşık, Yüzey
+Araba, Vagon, Yonga, Nehir, Elmas, Şekil, Beton, Çiçek, Hurma, Paket, Düğme, Yılan, Aslan, Ördek
+Kabak, Kitap, Meyve, Banyo, Peynir, Leopar, Hayvan, Mektup, Bayrak, Piknik, Pusula, Şimşek, Balina
+Otobüs, Sinema, Timsah, Mangal, Tavşan, Piyano, Mektup, Yağmur, Kamera, Rüzgar, Sincap, Yastık
+Kumsal, Kilise, Yaprak, Dükkan, Çiğdem, Kuzgun, Hafıza, Kaplan, Futbol, Baharat, Plastik, Hamster
+Patates, Yiyecek, Kurbağa, Özellik, Örümcek, Anahtar, Penguen, Karınca, Avokado, Kurbağa, Şemsiye
+Restoran, Güvercin, Sandalye, Semender, Pantolon, Bisiklet, Pamukçuk, Portakal, Karaağaç, Kerkenez
+Olabilir, ​​Kardeş, Salyangoz, Yağmurluk, Ağaçkakan, Gerçekler, Yağmurluk, Eşekarısı, Öğleyemeği
+Yabanarısı, Sivrisinek, Uğurböceği, Güneşişığı, Bilgisayar, Karahindiba, Oyuncakbebek
+Evcilhayvanlar, Sivrisinekkovucu

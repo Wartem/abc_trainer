@@ -1,0 +1,16 @@
+Zi, Joc, Pui, Loc, Nor, Aur, Râu, Duș, Apă, Ulm, Pin, Leu, Film, Grup, Mare, Casă, Melc, Oală, Cale
+Porc, Vacă, Inel, Clip, Raft, Zbor, Ceas, Pian, Fulg, Ulei, Vânt, Chip, Date, Corb, Dată, Rață, Baie
+Parc, Lucru, Nisip, Steag, Motor, Scaun, Soare, Lampă, Molid, Arici, Cocoș, Prânz, Radio, Pește
+Minge, Lalea, Sturz, Iarnă, Stâlp, Trupă, Câine, Scris, Covor, Avion, Cheie, Cafea, Tunel, Fapte
+Pernă, Plajă, Formă, Beton, Sunet, Prune, Podea, Buton, Șarpe, Poștă, Soare, Ceață, Avion, Carte
+Poate, Tigru, Frate, Acasă, Branză, Celulă, Stradă, Animal, Prosop, Natură, Lebădă, Delfin, Picnic
+Busolă, Sticlă, Creion, Păpușă, Fulger, Balenă, Pagina, Cinema, Cuvânt, Vrabie, Cuptor, Grătar
+Bondar, Iepure, Noapte, Ploaie, Muzică, Hambar, Pădure, Stejar, Mașină, Gheață, Căruță, Frunze
+Piatră, Albine, Crocus, Pisică, Stâncă, Floare, Viespă, Sticlă, Școală, Pachet, Cenușă, Fructe
+Fotbal, Familie, Leopard, Camping, Plastic, Hamster, Șoarece, Cartofi, Crăciun, Mâncare, Broască
+Autobuz, Țânțari, Pălărie, Păpădie, Pinguin, Furnică, Lingură, Clădire, Magazin, Oglindă, Avocado
+Kestrel, Memorie, Dovleac, Umbrelă, Scorpion, Porumbel, Struguri, Bomboane, Crocodil, Picătură
+Păianjen, Bomboane, Buburuză, Veveriță, Biserică, Diamante, Computer, Condiment, Scrisoare
+Pantaloni, Bicicletă, Scrisoare, Căprioară, Dimineață, Suprafață, Trandafir, Restaurant, Salamandra
+Aparatfoto, Portocaliu, Salatăverde, Ciocănitoare, Hainădeploaie, Caracteristică, Broascățestoasă
+Pantalonideploaie, Animaledecompanie

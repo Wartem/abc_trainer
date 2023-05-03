@@ -1,0 +1,14 @@
+Ko, Ek, Is, Bi, Ost, Sak, Hav, Hus, Mus, Lek, Sol, Jul, Mat, Val, Gem, Bio, Ord, Ugn, Dag, Yta, Bil
+Alm, Orm, Ask, Ros, Bok, Hem, Film, Cell, Gata, Djur, Sand, Duva, Svan, Stol, Gran, Bana, Gris, Tupp
+Fisk, Ring, Boll, Sida, Buss, Flyg, Band, Hund, Brev, Natt, Regn, Olja, Hatt, Moln, Lada, Guld, Myra
+Skog, Sked, Vind, Vagn, Chip, Flod, Blad, Sten, Katt, Form, Data, Ljud, Glas, Furu, Korp, Golv, Post
+Anka, Plan, Burk, Park, Grupp, Plast, Kruka, Natur, Motor, Druva, Lampa, Penna, Lunch, Radio, Docka
+Blixt, Groda, Hylla, Byxor, Cykel, Trast, Sparv, Grill, Humla, Kanin, Piano, Godis, Matta, Mygga
+Hjort, Kaffe, Plats, Musik, Fakta, Kudde, Kyrka, Dusch, Butik, Skola, Datum, Paket, Knapp, Padda
+Lejon, Dimma, Minne, Pumpa, Dator, Frukt, Tiger, Familj, Krydda, Lodjur, Flagga, Snigel, Delfin
+Flaska, Tulpan, Sallad, Vinter, Pelare, Klocka, Skrift, Flinga, Droppe, Nyckel, Kamera, Tunnel
+Morgon, Ekorre, Strand, Orange, Krokus, Klippa, Spegel, Vatten, Betong, Blomma, Geting, Broder
+Badrum, Leopard, Camping, Bokstav, Handduk, Hamster, Potatis, Kompass, Spindel, Maskros, Pingvin
+Byggnad, Avokado, Plommon, Solsken, Paraply, Fotboll, Husdjur, Skorpion, Picknick, Igelkott
+Godisbit, Kyckling, Funktion, Krokodil, Flygplan, Tornfalk, Myggmedel, Regnbyxor, Hackspett
+Diamanter, Regnjacka, Restaurang, Salamander, Nyckelpiga

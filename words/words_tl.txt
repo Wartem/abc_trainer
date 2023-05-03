@@ -1,0 +1,15 @@
+Bus, Aso, Usa, Oak, Elm, Abo, Keso, Cell, Suso, Swan, Ubas, Daga, Laro, Araw, Bote, Isda, Baka, Bola
+Clip, Word, Oven, Band, Drop, Ulan, Susi, Kape, Ulap, Barn, Gold, Araw, Yelo, Unan, Chip, Ilog, Bato
+Pusa, Bato, Data, Plum, Wasp, Pine, Ahas, Leon, Pato, Lata, Bagay, Kalye, Spice, Hayop, Grupo, Dagat
+Bahay, Liham, Motor, Upuan, Baboy, Pasko, Lapis, Radyo, Kendi, Manok, Tulip, Shelf, Grill, Piano
+Flake, Night, Candy, Lamok, Lugar, Umaga, Kotse, Beach, Dahon, Kahel, Hugis, Tubig, Tunog, Raven
+Petsa, Floor, Koreo, Ambon, Rosas, Aklat, Tigre, Banyo, Parke, Picnic, Spruce, Landas, Manika
+Kidlat, Palaka, Pahina, Flight, Thrush, Winter, Kuneho, Pillar, Orasan, Letter, Spider, Langis
+Carpet, Camera, Musika, Tunnel, Ibabaw, Hangin, Gusali, Paligo, Crocus, Kapote, School, Button
+Palaka, Payong, Prutas, Pamilya, Scorpio, Leopard, Camping, Plastik, Watawat, Palayok, Tuwalya
+Hamster, Dolphin, Patatas, Lampara, Compass, Pagkain, Tandang, Balyena, Lettuce, Sinehan, Feature
+Sparrow, Ladybug, Penguin, Langgam, Kutsara, Ardilya, Kariton, Salamin, Abukado, Salamin, Kestrel
+Package, Memorya, Kapatid, Tahanan, Pelikula, Buhangin, Kalapati, Hedgehog, Singsing, Pantalon
+Eroplano, Sombrero, Simbahan, Tindahan, Pukyutan, Diamante, Bulaklak, Eroplano, Kalabasa, Computer
+Football, Kalikasan, Rainpants, Bisikleta, Crocodile, Bumblebee, Dandelion, Kagubatan, Kongkreto
+Restaurant, Tanghalian, Salamander, Pagsusulat, Woodpecker, Katotohanan, Mgaalaganghayop, Mosquitorepellent

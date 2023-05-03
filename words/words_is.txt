@@ -1,0 +1,16 @@
+Ís, Dýr, Hús, Mús, Sól, Jól, Kýr, Orð, Ofn, Ský, Eik, Búð, Önd, Rós, Bók, Dós, Gata, Sjór, Fáni
+Dúfa, Svín, Hani, Síða, Flug, Súla, Nótt, Olía, Göng, Gull, Maur, Bíll, Vagn, Flís, Lauf, Gögn, Vatn
+Blóm, Gler, Fura, Gólf, Ljón, Aska, Ostur, Klefi, Krydd, Hópur, Plast, Mótor, Stóll, Lampi, Greni
+Matur, Dúkka, Nammi, Bolti, Hilla, Salat, Buxur, Vetur, Grill, Humla, Píanó, Flaka, Dropi, Nammi
+Teppi, Fluga, Dádýr, Kaffi, Hlöðu, Skeið, Dagur, Koddi, Fjara, Fljót, Lögun, Álmur, Hljóð, Plóma
+Skóli, Hrafn, Döðla, Pakki, Padda, Minni, Tölva, Hlutur, Sandur, Pottur, Svanur, Vínber, Leikur
+Stígur, Flaska, Útvarp, Fiskur, Hvalur, Strætó, Þáttur, Kanína, Hundur, Klukka, Skrift, Hattur
+Lykill, Staður, Mörgæs, Morgun, Skógur, Vindur, Íkorna, Kirkja, Sturta, Steinn, Krókus, Köttur
+Steinn, Snákur, Póstur, Mistur, Bróðir, Garður, Snigill, Náttúra, Hamstur, Hringur, Froskur, Klemmur
+Þristur, Kónguló, Rigning, Flugvél, Tónlist, Bygging, Býfluga, Spegill, Avókadó, Kestrel, Hnappur
+Sólskin, Flugvél, Grasker, Ávextir, Gæludýr, Heimili, Hlébarði, Kvikmynd, Áttaviti, Blýantur
+Eldingar, Reiðhjól, Spörfugl, Myndavél, Yfirborð, Demantar, Regnhlíf, Fótbolti, Bókstafur, Handklæði
+Höfrungur, Kartöflur, Túlípanar, Regnbuxur, Krókódíll, Bókstafur, Túnfífill, Geitungur, Tígrisdýr
+Fjölskylda, Sporðdreki, Tjaldstæði, Lautarferð, Kjúklingur, Salamander, Hljómsveit, Regnfrakki
+Moskítóvörn, Broddgeltur, Maríubjölla, Staðreyndir, Steinsteypa, Baðherbergi, Kvikmyndahús
+Hádegisverður, Skógarþröstur, Appelsínugult, Veitingastaður

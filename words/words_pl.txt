@@ -1,0 +1,16 @@
+Ser, Dom, Gra, Jeż, Lot, Noc, Las, Dąb, Lód, Kot, Osa, Wąż, Lew, Dom, Film, List, Mysz, Ryba, Żaba
+Klip, Kino, Zima, Pies, List, Olej, Kawa, Rano, Liść, Dane, Woda, Wiąz, Kruk, Data, Mgła, Róża, Owoc
+Brat, Park, Rzecz, Ulica, Grupa, Morze, Flaga, Gołąb, Lampa, Kogut, Obiad, Radio, Lalka, Krowa
+Piłka, Półka, Rower, Słowo, Grill, Filar, Zegar, Pająk, Dywan, Komar, Jeleń, Klucz, Tunel, Złoto
+Łyżka, Dzień, Wiatr, Fakty, Wagon, Żeton, Plaża, Rzeka, Sklep, Skała, Beton, Kwiat, Szkło, Sosna
+Dynia, Piasek, Ślimak, Garnek, Natura, Silnik, Łabędź, Chomik, Delfin, Piknik, Słońce, Kompas
+Świerk, Świnia, Ołówek, Strona, Sałata, Wróbel, Królik, Zespół, Płatek, Kropla, Deszcz, Kamera
+Chmura, Muzyka, Mrówka, Kamień, Krokus, Lustro, Dźwięk, Śliwka, Szkoła, Pakiet, Poczta, Słońce
+Popiół, Kaczka, Pamięć, Puszka, Tygrys, Rodzina, Lampart, Komórka, Camping, Zwierzę, Plastik
+Ręcznik, Krzesło, Ścieżka, Butelka, Kurczak, Tulipan, Spodnie, Autobus, Funkcja, Trzmiel, Pisanie
+Samolot, Miejsce, Pingwin, Stodoła, Kościół, Budynek, Kształt, Awokado, Podłoga, Ropucha, Samolot
+Parasol, Książka, Skorpion, Ziemniak, Jedzenie, Cukierek, Wieloryb, Krokodyl, Słodycze, Dzięcioł
+Kapelusz, Samochód, Poduszka, Prysznic, Pszczoła, Diamenty, Pustułka, Przycisk, Komputer, Łazienka
+Przyprawa, Winogrono, Pierścień, Piekarnik, Fortepian, Biedronka, Wiewiórka, Błyskawica, Salamandra
+Pleśniawka, Piłkanożna, Restauracja, Powierzchnia, Pomarańczowy, Bożenarodzenie, Mniszeklekarski
+Zwierzętadomowe, Spodnieprzeciwdeszczowe, Płaszczprzeciwdeszczowy, Środekodstraszającykomary

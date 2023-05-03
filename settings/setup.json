@@ -1,0 +1,16 @@
+{
+    "user_name": "Player",
+    "slow_speech": false,
+    "language": "English",
+    "repetitions": 2,
+    "letter_case": "UPPER",
+    "instructions": true,
+    "font": "Anuphan Bold",
+    "text_color": "#000000",
+    "full_screen": false,
+    "window_width": 800,
+    "window_height": 600,
+    "background_color": "#f5f5dc",
+    "excluded_characters": "",
+    "volume": 99
+}

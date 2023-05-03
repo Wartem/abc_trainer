@@ -1,0 +1,16 @@
+Yö, Jää, Asia, Solu, Katu, Meri, Talo, Peli, Sika, Kynä, Kala, Kana, Sivu, Sana, Uuni, Kani, Band
+Sade, Öljy, Aamu, Auto, Siru, Joki, Kivi, Kivi, Data, Vesi, Ääni, Lasi, Sumu, Veli, Koti, Perhe
+Ryhmä, Muovi, Kirje, Lippu, Etana, Pyyhe, Tuoli, Hiiri, Kuusi, Polku, Siili, Pullo, Joulu, Ruoka
+Kukko, Radio, Nukke, Lehmä, Valas, Pallo, Hylly, Bussi, Lento, Talvi, Koira, Kello, Piano, Kirje
+Matto, Hirvi, Tikka, Hattu, Avain, Kahvi, Pilvi, Kulta, Metsä, Päivä, Pinta, Tammi, Tuuli, Orava
+Tyyny, Vaunu, Ranta, Lehti, Kissa, Muoto, Peili, Luumu, Kukka, Mänty, Koulu, Nappi, Posti, Tuhka
+Ankka, Ruusu, Kirja, Juusto, Mauste, Hiekka, Ruukku, Luonto, Rypäle, Piknik, Peruna, Lamppu, Lounas
+Salama, Sormus, Klipsi, Housut, Sammas, Grilli, Pilari, Pisara, Kamera, Paikka, Faktat, Kirkko
+Suihku, Kauppa, Krokus, Betoni, Jalava, Korppi, Lattia, Käärme, Muisti, Tölkki, Puisto, Elokuva
+Eläimet, Joutsen, Aurinko, Karkkia, Hiutale, Karkkia, Tunneli, Navetta, Lusikka, Oranssi, Avokado
+Kestrel, Paketti, Leijona, Tiikeri, Leopardi, Moottori, Hamsteri, Delfiini, Kompassi, Sammakko
+Salaatti, Varpunen, Hyttynen, Voikukka, Musiikki, Rakennus, Timantit, Kurpitsa, Hedelmät, Skorpioni
+Ravintola, Kyyhkynen, Tulppaani, Bumblebee, Hämähäkki, Lentokone, Pingviini, Sadetakki, Ampiainen
+Rupikonna, Lentokone, Tietokone, Sadehousut, Polkupyörä, Ominaisuus, Krokotiili, Mehiläinen
+Päivämäärä, Jalkapallo, Kylpyhuone, Salamanteri, Leppäkerttu, Muurahainen, Sateenvarjo, Leirintäalue
+Hyttyskarkote, Kirjoittaminen, Auringonpaiste, Elokuvateatteri, Lemmikkieläimet

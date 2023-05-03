@@ -1,0 +1,14 @@
+Ku, Is, Ost, Dyr, Hav, Hus, Due, Mus, Sol, Sti, Jul, Mat, Lyn, Fly, Ord, Ovn, Fly, Sky, Dag, Eik
+Bil, Elv, Bie, Alm, Lyd, And, Fly, Bok, Bad, Ting, Film, Gate, Sand, Brev, Stol, Drue, Vilt, Gran
+Gris, Hane, Fisk, Ring, Hval, Ball, Side, Buss, Kino, Band, Hund, Drop, Natt, Regn, Olje, Mygg, Hatt
+Sted, Låve, Gull, Maur, Skog, Skje, Vind, Pute, Vogn, Chip, Blad, Dusj, Katt, Form, Data, Vann, Veps
+Furu, Ravn, Gulv, Post, Løve, Aske, Tåke, Rose, Boks, Bror, Hjem, Park, Celle, Plast, Flagg, Snegl
+Gryte, Natur, Motor, Svane, Potet, Lampe, Lunsj, Radio, Dukke, Frosk, Klips, Hylle, Salat, Trost
+Grill, Humle, Kanin, Søyle, Piano, Flake, Teppe, Hjort, Kaffe, Ekorn, Fakta, Kirke, Stein, Stein
+Speil, Glass, Skole, Pakke, Knapp, Padde, Minne, Frukt, Tiger, Gruppe, Delfin, Piknik, Flaske
+Blyant, Bukser, Sykkel, Vinter, Klokke, Letter, Nøkkel, Kamera, Musikk, Tunnel, Morgen, Strand
+Butikk, Krokus, Betong, Plomme, Blomst, Daddel, Slange, Familie, Leopard, Krydder, Camping, Håndkle
+Hamster, Kompass, Godteri, Kylling, Tulipan, Feature, Sparrow, Godteri, Pingvin, Bygning, Avokado
+Paraply, Fotball, Skorpion, Pinnsvin, Skriving, Løvetann, Marihøne, Appelsin, Tårnfalk, Solskinn
+Gresskar, Kjæledyr, Edderkopp, Overflate, Diamanter, Regnfrakk, Restaurant, Myggmiddel, Salamander
+Regnbukser, Krokodille, Hakkespett, Datamaskin

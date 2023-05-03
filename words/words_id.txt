@@ -1,0 +1,16 @@
+Ek, Es, Sel, Rak, Bus, Jam, Air, Elm, Abu, Keju, Film, Laut, Alam, Babi, Ikan, Sapi, Paus, Bola
+Ayam, Klip, Kata, Oven, Band, Rusa, Topi, Kopi, Awan, Emas, Pagi, Hari, Chip, Daun, Batu, Toko, Batu
+Data, Prem, Kaca, Ular, Labu, Buku, Buah, Benda, Jalan, Hewan, Pasir, Rumah, Surat, Siput, Panci
+Motor, Angsa, Kursi, Tikus, Lampu, Jalan, Botol, Natal, Radio, Petir, Katak, Tulip, Fitur, Buaya
+Pilar, Piano, Surat, Malam, Hujan, Kunci, Kepik, Musik, Semut, Hutan, Angin, Tupai, Fakta, Mobil
+Jeruk, Lebah, Beton, Suara, Bunga, Tawon, Pinus, Gagak, Paket, Surat, Kodok, Singa, Bebek, Kabut
+Mawar, Kakak, Rumah, Taman, Rempah, Handuk, Anggur, Piknik, Kompas, Cemara, Landak, Pensil, Boneka
+Permen, Cincin, Selada, Celana, Sepeda, Anjing, Permen, Minyak, Karpet, Nyamuk, Kamera, Tempat
+Gudang, Sendok, Bantal, Pantai, Gereja, Sungai, Crocus, Kucing, Bentuk, Cermin, Lantai, Memori
+Payung, Kaleng, Scorpio, Plastik, Bendera, Merpati, Hamster, Kentang, Makanan, Halaman, Bioskop
+Sparrow, Kumbang, Kelinci, Menulis, Pelatuk, Penguin, Gerobak, Berlian, Alpukat, Kestrel, Sekolah
+Tanggal, Kancing, Pesawat, Harimau, Keluarga, Restoran, Berkemah, Kelompok, Matahari, Ayamjago
+Sariawan, Serpihan, Jatuhkan, Bangunan, Pancuran, Jashujan, Komputer, Permainan, Laba-Laba
+Dandelion, Permukaan, Sepakbola, Macantutul, Makansiang, Salamander, Pemanggang, Terowongan
+Kamarmandi, Lumba-Lumba, Penerbangan, Celanahujan, Musimdingin, Sinarmatahari, Pengusirnyamuk
+Pesawatterbang, Hewanpeliharaan

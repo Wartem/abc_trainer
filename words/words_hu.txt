@@ -1,0 +1,15 @@
+Kő, Ház, Vad, Nap, Sün, Hal, Szó, Tél, Óra, Pók, Eső, Nap, Jég, Víz, Köd, Tök, Sajt, Film, Sejt
+Utca, Szék, Egér, Étel, Ebéd, Baba, Béka, Klip, Polc, Busz, Mozi, Rigó, Sütő, Nyúl, Band, Írás, Olaj
+Kávé, Hely, Zene, Erdő, Szél, Autó, Bolt, Alak, Szil, Hang, Üveg, Gomb, Hamu, Foci, Park, Dolog
+Állat, Homok, Levél, Csiga, Edény, Motor, Szőlő, Lámpa, Malac, Kakas, Rádió, Tehén, Gyűrű, Bálna
+Labda, Oldal, Veréb, Grill, Kutya, Levél, Csepp, Kalap, Kulcs, Felhő, Pajta, Arany, Kanál, Tölgy
+Mókus, Párna, Kocsi, Folyó, Levél, Méhek, Tükör, Beton, Virág, Fenyő, Holló, Dátum, Padló, Kígyó
+Posta, Kacsa, Rózsa, Könyv, Család, Fűszer, Tenger, Zászló, Galamb, Hattyú, Delfin, Piknik, Ösvény
+Palack, Ceruza, Villám, Csirke, Saláta, Nadrág, Repülő, Darázs, Oszlop, Pehely, Repülő, Kamera
+Alagút, Hangya, Reggel, Tények, Strand, Épület, Zuhany, Macska, Szikla, Adatok, Szilva, Darázs
+Vércse, Iskola, Csomag, Tigris, Otthon, Skorpió, Leopárd, Étterem, Kemping, Csoport, Műanyag
+Hörcsög, Iránytű, Cukorka, Tulipán, Funkció, Zongora, Éjszaka, Cukorka, Szőnyeg, Szúnyog, Szarvas
+Harkály, Pingvin, Felszín, Forgács, Templom, Narancs, Krókusz, Avokádó, Varangy, Napfény, Memória
+Esernyő, Konzerv, Testvér, Burgonya, Lucfenyő, Kerékpár, Krokodil, Esőkabát, Oroszlán, Gyümölcs
+Törölköző, Természet, Karácsony, Esőnadrág, Gyémántok, Repülőgép, Háziállat, Számítógép, Fürdőszoba
+Szalamandra, Katicabogár, Gyermekláncfű, Szúnyogriasztó

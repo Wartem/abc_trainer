@@ -1,0 +1,14 @@
+Sýr, Věc, Dům, Myš, Hra, Míč, Let, Pes, Noc, Les, Den, Dub, Led, Vůz, Had, Lev, Štír, Film, Moře
+Smrk, Oběd, Ryba, Žába, Kuře, Klip, Kino, Kolo, Zima, Gril, Déšť, Olej, Klíč, Káva, Ráno, Vítr, Auto
+Chip, Pláž, Řeka, List, Tvar, Data, Voda, Jilm, Zvuk, Vosa, Sklo, Mlha, Dýně, Růže, Tygr, Park
+Buňka, Ulice, Zvíře, Plast, Písek, Dopis, Holub, Hrnec, Motor, Labuť, Židle, Lampa, Cesta, Ježek
+Láhev, Prase, Jídlo, Tužka, Rádio, Blesk, Kráva, Salát, Slovo, Drozd, Pilíř, Psaní, Dopis, Kapka
+Komár, Jelen, Datel, Místo, Oblak, Hudba, Tunel, Zlato, Lžíce, Fakta, Kámen, Včela, Kočka, Kámen
+Beton, Škola, Datum, Pošta, Jasan, Paměť, Kniha, Ovoce, Bratr, Domov, Rodina, Koření, Vlajka, Ručník
+Křeček, Delfín, Piknik, Slunce, Kompas, Vánoce, Kohout, Prsten, Police, Funkce, Vrabec, Trouba
+Čmelák, Králík, Kapela, Hodiny, Klavír, Vločka, Pavouk, Tučňák, Povrch, Kostel, Budova, Sprcha
+Obchod, Krokus, Havran, Kachna, Fotbal, Leopard, Skupina, Hlemýžď, Příroda, Panenka, Cukroví
+Velryba, Stránka, Tulipán, Kalhoty, Autobus, Cukroví, Koberec, Letadlo, Klobouk, Beruška, Stodola
+Veverka, Polštář, Zrcadlo, Avokádo, Švestka, Květina, Balíček, Podlaha, Ropucha, Letadlo, Deštník
+Počítač, Hroznová, Brambora, Krokodýl, Mravenec, Pomeranč, Diamanty, Borovice, Poštolka, Tlačítko
+Sluníčko, Koupelna, Kempování, Salamandr, Pláštěnka, Plechovka, Restaurace, Fotoaparát, Pampeliška, Domácímazlíčci

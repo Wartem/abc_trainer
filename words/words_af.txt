@@ -1,0 +1,14 @@
+Ys, Wa, By, As, Sel, See, Pot, Son, Pad, Kos, Pop, Vis, Bal, Rak, Bus, Nag, Bos, Dag, Kat, Elm, Pos
+Mis, Kaas, Ding, Dier, Sand, Huis, Vlag, Slak, Duif, Muis, Wild, Lamp, Spar, Vark, Haan, Koei, Ring
+Tulp, Vlug, Oond, Band, Hond, Vlok, Reën, Olie, Hert, Hoed, Plek, Wolk, Goud, Mier, Wind, Chip, Kerk
+Klip, Rots, Vorm, Data, Blom, Wesp, Glas, Raaf, Leeu, Eend, Roos, Boek, Tier, Huis, Park, Fliek
+Spice, Groep, Brief, Motor, Swaan, Stoel, Druif, Radio, Padda, Broek, Fiets, Woord, Grill, Konyn
+Skryf, Tapyt, Skuur, Lepel, Feite, Motor, Gebou, Blaar, Stort, Water, Beton, Klank, Pruim, Denne
+Skool, Dadel, Vloer, Slang, Padda, Broer, Straat, Natuur, Dolfyn, Kompas, Bottel, Walvis, Bladsy
+Lyster, Winter, Mossie, Hommel, Pilaar, Letter, Specht, Kamera, Koffie, Musiek, Tonnel, Oggend
+Strand, Rivier, Lemoen, Winkel, Krokus, Spieël, Pakket, Geheue, Vrugte, Sokker, Familie, Luiperd
+Kampeer, Hamster, Potlood, Weerlig, Hoender, Klavier, Druppel, Muskiet, Sleutel, Ladybug, Kussing
+Avokado, Reënjas, Kestrel, Knoppie, Sonskyn, Pampoen, Blikkie, Plastiek, Handdoek, Piekniek
+Kersfees, Skeersel, Bioskoop, Rolprent, Krokodil, Horlosie, Pikkewyn, Eikehout, Diamante, Sambreel
+Rekenaar, Badkamer, Skerpioen, Aartappel, Spinnekop, Vliegtuig, Oppervlak, Eekhoring, Vliegtuig
+Restaurant, Lekkergoed, Salamander, Blaarslaai, Lekkergoed, Paardebloem, Troeteldiere

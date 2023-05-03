@@ -1,0 +1,16 @@
+Odi, Ēka, Upe, Šūna, Iela, Jūra, Māja, Pods, Daba, Pele, Egle, Ceļš, Ezis, Cūka, Govs, Lapa, Kino
+Suns, Eļļa, Rīts, Mežs, Vējš, Duša, Bite, Dati, Goba, Poga, Pīle, Roze, Siers, Lieta, Filma, Grupa
+Burts, Kāmis, Spēle, Saule, Lampa, Radio, Lelle, Zivis, Valis, Bumba, Varde, Vista, Tulpe, Klips
+Vārds, Ziema, Grils, Josla, Nakts, Vieta, Klēts, Zelts, Diena, Ozols, Fakti, Ledus, Lapas, Kaķis
+Forma, Ūdens, Skaņa, Plūme, Zieds, Skola, Grīda, Čūska, Pasts, Lauva, Pelni, Migla, Kanna, Augļi
+Mājas, Parks, Ģimene, Karogs, Motors, Gulbis, Krēsls, Pudele, Ēdiens, Gailis, Zibens, Salāti, Bikses
+Kamene, Trusis, Pīlārs, Pārsla, Lietus, Dzenis, Cepure, Kamera, Kafija, Mārīte, Mūzika, Skudra
+Karote, Virsma, Vāvere, Vagons, Šķelda, Akmens, Akmens, Betons, Stikls, Priede, Datums, Krupis
+Atmiņa, Ķirbis, Dators, Brālis, Smiltis, Balodis, Dvielis, Delfīns, Vīnogas, Pikniks, Kompass
+Zīmulis, Plaukts, Strazds, Vēstule, Piliens, Paklājs, Briedis, Atslēga, Pienene, Mākonis, Tunelis
+Baznīca, Veikals, Krokuss, Dimanti, Avokado, Lapsene, Kestrel, Saulīte, Grāmata, Tīģeris, Futbols
+Leopards, Kempings, Gredzens, Autobuss, Lidojums, Funkcija, Pingvīns, Spilvens, Pludmale, Apelsīns
+Spogulis, Krauklis, Skorpions, Restorāns, Dzīvnieks, Plastmasa, Gliemezis, Pusdienas, Konfektes
+Zvirbulis, Krokodils, Klavieres, Zirneklis, Konfektes, Lidmašīna, Lidmašīna, Garšvielas, Kartupelis
+Salamandra, Velosipēds, Pulkstenis, Rakstīšana, Automašīna, Iepakojums, Cepeškrāsns, Lietussargs
+Ziemassvētki, Lietusbikses, Mājdzīvnieki, Vannasistaba, Lietusmētelis, Oduatbaidīšanaslīdzeklis

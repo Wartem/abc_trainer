@@ -1,0 +1,14 @@
+Öö, Asi, Ahi, Õli, Ait, Jää, Udu, Film, Rakk, Loom, Rühm, Liiv, Meri, Maja, Kiri, Lipp, Tigu, Tuvi
+Pott, Luik, Tool, Hiir, Mäng, Lamp, Rada, Siil, Siga, Toit, Kukk, Nukk, Kala, Välk, Komm, Lehm, Vaal
+Pall, Konn, Kana, Leht, Tulp, Buss, Lend, Kino, Sõna, Talv, Bänd, Koer, Kell, Kiri, Tilk, Komm, Vihm
+Vaip, Hirv, Rähn, Müts, Võti, Kohv, Koht, Pilv, Kuld, Mets, Päev, Pind, Tamm, Tuul, Orav, Auto, Padi
+Rand, Jõgi, Leht, Dušš, Kivi, Pood, Kass, Kivi, Kuju, Vesi, Heli, Lill, Mänd, Kool, Ronk, Nupp, Madu
+Post, Lõvi, Tuhk, Part, Mälu, Roos, Purk, Vend, Kodu, Park, Juust, Tänav, Vürts, Rätik, Päike, Kuusk
+Pudel, Riiul, Salat, Grill, Jänes, Sääsk, Vagun, Laast, Kirik, Hoone, Ploom, Klaas, Kiisk, Loodus
+Mootor, Piknik, Kartul, Jõulud, Raadio, Sõrmus, Püksid, Rästas, Sammas, Klaver, Helbed, Ämblik
+Lennuk, Tunnel, Hommik, Faktid, Andmed, Peegel, Betoon, Pakett, Põrand, Lennuk, Raamat, Arvuti
+Tiiger, Leopard, Plastik, Hamster, Delfiin, Kompass, Pliiats, Klamber, Kaamera, Võilill, Muusika
+Lusikas, Apelsin, Krookus, Jalakas, Kuupäev, Kõrvits, Puuvili, Perekond, Skorpion, Restoran
+Varblane, Kimalane, Pingviin, Sipelgas, Mesilane, Avokaado, Herilane, Kärnkonn, Jalgpall, Telkimine
+Viinamari, Lõunasöök, Jalgratas, Krokodill, Teemandid, Vihmavari, Vannituba, Salamander, Funktsioon
+Lepatriinu, Vihmapüksid, Kirjutamine, Vihmamantel, Lemmikloomad, Päikesepaiste, Sääsetõrjevahend

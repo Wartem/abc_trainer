@@ -1,0 +1,17 @@
+Šuo, Upė, Jūra, Kėdė, Pelė, Eglė, Lėlė, Kava, Bitė, Katė, Uola, Gėlė, Data, Rožė, Sūris, Šeima
+Gatvė, Grupė, Namas, Raidė, Gamta, Gulbė, Bulvė, Saulė, Lempa, Takas, Žuvis, Karvė, Varlė, Tulpė
+Kinas, Žodis, Žiema, Lašas, Voras, Uodai, Genys, Vieta, Rytas, Diena, Vėjas, Ledas, Lapai, Dušas
+Akmuo, Forma, Guoba, Slyva, Pušis, Saulė, Antis, Rūkas, Knyga, Namai, Filmas, Smėlis, Sraigė, Puodas
+Kiaulė, Gaidys, Pietūs, Žaibas, Žiedas, Klipas, Kelnės, Grilis, Kamanė, Juosta, Naktis, Lietus
+Elnias, Raktas, Muzika, Auksas, Miškas, Voverė, Faktai, Drožlė, Vanduo, Garsas, Vapsva, Vėgėlė
+Varnas, Gyvatė, Paštas, Rupūžė, Liūtas, Skėtis, Tigras, Brolis, Parkas, Dalykas, Ląstelė, Gyvūnas
+Vėliava, Vynuogė, Ežiukas, Butelis, Kalėdos, Maistas, Radijas, Rutulys, Lentyna, Salotos, Skrydis
+Orkaitė, Triušis, Stulpas, Rašymas, Laiškas, Aliejus, Kilimas, Debesis, Tunelis, Tvartas, Skruzdė
+Ąžuolas, Pagalvė, Vagonas, Betonas, Stiklas, Mokykla, Paketas, Grindys, Pelenai, Vaisiai, Balandis
+Variklis, Delfinas, Piknikas, Žaidimas, Kompasas, Banginis, Vištiena, Puslapis, Dviratis, Funkcija
+Strazdas, Žvirblis, Pianinas, Lėktuvas, Skrybėlė, Boružėlė, Šaukštas, Bažnyčia, Pastatas, Krokusas
+Duomenys, Avokadas, Mygtukas, Atmintis, Lėktuvas, Moliūgas, Skardine, Futbolas, Leopardas, Kempingas
+Plastikas, Žiurkėnas, Pieštukas, Autobusas, Laikrodis, Dribsniai, Pingvinas, Paviršius, Apelsinas
+Deimantai, Veidrodis, Skorpionas, Restoranas, Saldainiai, Salamandra, Krokodilas, Saldainiai
+Kiaulpienė, Paplūdimys, Parduotuvė, Lietpaltis, Prieskoniai, Automobilis, Kompiuteris, Rankšluostis
+Fotoaparatas, Lietauskelnės, Uodųatbaidymas, Vonioskambarys, Naminiaigyvūnai

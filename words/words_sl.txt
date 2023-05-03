@@ -1,0 +1,15 @@
+Sir, Pot, Jež, Kit, Let, Žar, Pes, Ura, Noč, Dež, Dan, Led, Čip, Tuš, Osa, Bor, Tla, Lev, Dom, Film
+Hiša, Polž, Stol, Igra, Pujs, Riba, Žoga, Žaba, Kino, Kolo, Zima, Trak, Olje, Kava, Kraj, Gozd, Avto
+Reka, List, Voda, Zvok, Roža, Šola, Gumb, Kača, Raca, Buča, Brat, Park, Stvar, Ulica, Pesek, Morje
+Pismo, Golob, Lonec, Motor, Labod, Hrček, Miška, Sonce, Božič, Hrana, Radio, Lutka, Krava, Stran
+Hlače, Drozd, Čmrlj, Zajec, Pismo, Pajek, Komar, Jelen, Žolna, Ključ, Oblak, Tunel, Zlato, Jutro
+Žlica, Hrast, Veter, Vagon, Plaža, Kamen, Mačka, Kamen, Beton, Brest, Sliva, Datum, Paket, Pošta
+Sonce, Pepel, Megla, Sadje, Tiger, Celica, Živali, Narava, Delfin, Piknik, Kompas, Smreka, Kosilo
+Strela, Prstan, Sponka, Polica, Solata, Beseda, Vrabec, Pečica, Steber, Klavir, Letalo, Klobuk
+Kamera, Regrat, Glasba, Cerkev, Čebela, Krokus, Oblika, Steklo, Krokar, Spomin, Letalo, Dežnik
+Knjiga, Družina, Leopard, Začimba, Skupina, Zastava, Brisača, Grozdje, Krompir, Petelin, Močerad
+Tulipan, Avtobus, Pisanje, Kosmiči, Pingvin, Skedenj, Mravlja, Dejstva, Blazina, Zgradba, Podatki
+Avokado, Vrtnica, Nogomet, Plastika, Svetilka, Svinčnik, Piščanec, Krokodil, Kapljica, Preproga
+Površina, Veverica, Trgovina, Diamanti, Ogledalo, Vetrlica, Krastača, Škorpijon, Pomaranča
+Kopalnica, Kampiranje, Steklenica, Sladkarije, Sladkarije, Dežniplašč, Pločevinka, Računalnik
+Restavracija, Pikapolonica, Hišniljubljenčki, Odganjaleckomarjev

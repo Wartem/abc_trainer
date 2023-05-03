@@ -1,0 +1,14 @@
+Ko, Ur, Eg, Is, Bi, Ost, Dyr, Hav, Hus, Due, Pot, Mus, Sol, Sti, Jul, Mad, Lyn, Frø, Bus, Fly, Ord
+Ovn, Nat, Myg, Hat, Sky, Ske, Dag, Bil, Kat, Elm, Lyd, Fyr, And, Fly, Bog, Ting, Film, Gade, Sand
+Brev, Flag, Stol, Drue, Gran, Gris, Hane, Fisk, Slik, Ring, Hval, Bold, Side, Klip, Band, Hund, Slik
+Regn, Olie, Sted, Lade, Guld, Myre, Skov, Vind, Pude, Vogn, Chip, Flod, Sten, Sten, Form, Data, Vand
+Glas, Ravn, Gulv, Knap, Post, Løve, Aske, Tåge, Rose, Dåse, Bror, Hjem, Park, Celle, Plast, Snegl
+Natur, Motor, Svane, Vildt, Lampe, Radio, Dukke, Hylde, Salat, Cykel, Spurv, Grill, Kanin, Søjle
+Flage, Dråbe, Tæppe, Nøgle, Kaffe, Musik, Egern, Fakta, Kirke, Blade, Butik, Spejl, Beton, Hveps
+Skole, Pakke, Tudse, Frugt, Tiger, Gruppe, Delfin, Picnic, Kompas, Flaske, Blyant, Bukser, Vinter
+Klaver, Skrift, Hjorte, Spætte, Kamera, Tunnel, Morgen, Strand, Krokus, Blomme, Blomst, Daddel
+Slange, Familie, Leopard, Camping, Hamster, Frokost, Kylling, Tulipan, Biograf, Feature, Drossel
+Humlebi, Bogstav, Pingvin, Bygning, Avocado, Solskin, Græskar, Paraply, Fodbold, Kæledyr, Skorpion
+Krydderi, Pindsvin, Edderkop, Brusebad, Appelsin, Tårnfalk, Computer, Håndklæde, Kartoffel
+Mariehøne, Overflade, Diamanter, Restaurant, Salamander, Regnbukser, Krokodille, Mælkebøtte
+Regnfrakke, Hukommelse, Myggemiddel, Badeværelse, Flyvemaskine

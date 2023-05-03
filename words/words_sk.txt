@@ -1,0 +1,15 @@
+Syr, Vec, Dom, Myš, Hra, Let, Pes, Noc, Les, Deň, Dub, Ľad, Čip, Osa, Had, Lev, Film, More, List
+Obed, Ryba, Žaba, Klip, Kino, Zima, Rúra, Gril, Stĺp, List, Dážď, Olej, Kľúč, Káva, Ráno, Auto, Pláž
+List, Tvar, Voda, Zvuk, Kvet, Sklo, Hmla, Ruža, Brat, Park, Bunka, Ulica, Plast, Holub, Motor, Labuť
+Slnko, Lampa, Smrek, Ježko, Fľaša, Prasa, Jedlo, Kohút, Rádio, Blesk, Krava, Lopta, Kurča, Šalát
+Slovo, Drozd, Pavúk, Komár, Jeleň, Ďateľ, Oblak, Hudba, Tunel, Zlato, Fakty, Vagón, Rieka, Kameň
+Včela, Mačka, Skala, Údaje, Betón, Brest, Škola, Dátum, Balík, Pošta, Slnko, Jaseň, Pamäť, Kniha
+Tiger, Domov, Rodina, Zviera, Piesok, Vlajka, Slimák, Hrniec, Uterák, Delfín, Hrozno, Piknik, Kompas
+Bábika, Cukrík, Prsteň, Polica, Vrabec, Králik, Kapela, Hodiny, Klavír, Vločka, Kvapka, Cukrík
+Klobúk, Miesto, Púpava, Lienka, Mravec, Lyžica, Povrch, Vietor, Vankúš, Kostol, Budova, Sprcha
+Obchod, Krokus, Slivka, Havran, Kačica, Ovocie, Futbal, Leopard, Korenie, Skupina, Príroda, Škrečok
+Zemiaky, Vianoce, Ceruzka, Veľryba, Stránka, Tulipán, Autobus, Bicykel, Čmeliak, Písanie, Koberec
+Tučniak, Stodola, Zrkadlo, Avokádo, Podlaha, Ropucha, Tekvica, Dáždnik, Počítač, Kúpeľňa, Škorpión
+Stolička, Cestička, Nohavice, Krokodíl, Lietadlo, Pomaranč, Diamanty, Borovica, Poštolka, Tlačidlo
+Lietadlo, Vlastnosť, Veverička, Pláštenka, Plechovka, Kempovanie, Salamander, Fotoaparát
+Reštaurácia, Domácezvieratá

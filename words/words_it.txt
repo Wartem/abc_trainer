@@ -1,0 +1,17 @@
+Uva, Oro, Ape, Cosa, Film, Mare, Casa, Topo, Sole, Cibo, Rana, Clip, Volo, Cane, Olio, Chip, Dati
+Olmo, Pino, Data, Sole, Rosa, Casa, Cella, Cigno, Sedia, Gallo, Radio, Pesce, Mucca, Palla, Pollo
+Forno, Banda, Ragno, Notte, Cervo, Caffè, Luogo, Vento, Fatti, Carro, Fiume, Croco, Gatto, Forma
+Acqua, Suono, Fiore, Vespa, Vetro, Corvo, Posta, Rospo, Leone, Aereo, Zucca, Libro, Tigre, Bagno
+Parco, Strada, Spezia, Gruppo, Sabbia, Lumaca, Natura, Motore, Picnic, Patate, Riccio, Maiale
+Natale, Matita, Pranzo, Anello, Balena, Pagina, Cinema, Parola, Fiocco, Goccia, Chiave, Nuvola
+Musica, Tunnel, Giorno, Chiesa, Foglia, Doccia, Pietra, Roccia, Prugna, Scuola, Cenere, Anatra
+Nebbia, Frutta, Calcio, Animale, Lettera, Pentola, Criceto, Delfino, Lampada, Bussola, Bambola
+Fulmine, Lattuga, Autobus, Inverno, Passero, Griglia, Lettera, Pioggia, Tappeto, Zanzara, Picchio
+Fienile, Formica, Mattina, Foresta, Quercia, Cuscino, Negozio, Avocado, Gheppio, Memoria, Lattina
+Famiglia, Leopardo, Plastica, Bandiera, Piccione, Sentiero, Tulipano, Scaffale, Mughetto, Coniglio
+Pilastro, Orologio, Cappello, Pinguino, Ghiaccio, Spiaggia, Edificio, Diamanti, Specchio, Pulsante
+Serpente, Ombrello, Computer, Fratello, Formaggio, Scorpione, Campeggio, Bottiglia, Caramella
+Pantaloni, Calabrone, Scrittura, Caramelle, Aeroplano, Tarassaco, Cucchiaio, Arancione, Pacchetto
+Pavimento, Ristorante, Selvaggina, Abeterosso, Salamandra, Bicicletta, Pianoforte, Fotocamera
+Coccinella, Superficie, Scoiattolo, Automobile, Asciugamano, Coccodrillo, Calcestruzzo, Impermeabile
+Caratteristica, Animalidomestici, Repellenteperzanzare, Pantaloniantipioggia

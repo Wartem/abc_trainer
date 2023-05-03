@@ -1,0 +1,16 @@
+Mar, Uva, Sol, Oro, Día, Río, Sol, Cosa, Casa, Olla, Vaca, Rana, Clip, Cine, Gota, Café, Nube, Chip
+Hoja, Gato, Roca, Agua, Olmo, Flor, Pino, Piso, Sapo, León, Pato, Rosa, Lata, Baño, Queso, Calle
+Grupo, Arena, Carta, Motor, Cisne, Silla, Ratón, Juego, Abeto, Erizo, Cerdo, Lápiz, Gallo, Radio
+Pollo, Vuelo, Tordo, Horno, Pilar, Banda, Perro, Reloj, Piano, Carta, Araña, Noche, Avión, Llave
+Lugar, Túnel, Roble, Coche, Hielo, Vagón, Playa, Ducha, Abeja, Forma, Datos, Fecha, Botón, Avión
+Libro, Fruta, Tigre, Hogar, Célula, Animal, Paloma, Toalla, Delfín, Picnic, Patata, Camino, Comida
+Muñeco, Anillo, Pelota, Página, Conejo, Escama, Lluvia, Aceite, Ciervo, Cámara, Música, Mañana
+Bosque, Viento, Hechos, Piedra, Tienda, Espejo, Sonido, Avispa, Vidrio, Cuervo, Correo, Ceniza
+Niebla, Fútbol, Parque, Familia, Especia, Camping, Bandera, Caracol, Hámster, Lámpara, Brújula
+Botella, Navidad, Pescado, Ballena, Tulipán, Estante, Lechuga, Autobús, Palabra, Gorrión, Granero
+Hormiga, Cuchara, Ardilla, Iglesia, Naranja, Azafrán, Ciruela, Escuela, Paquete, Memoria, Hermano
+Escorpio, Leopardo, Película, Plástico, Almuerzo, Caramelo, Invierno, Parrilla, Abejorro, Caramelo
+Alfombra, Mosquito, Sombrero, Pingüino, Almohada, Edificio, Aguacate, Hormigón, Calabaza, Paraguas
+Mascotas, Relámpago, Bicicleta, Cocodrilo, Escritura, Mariquita, Diamantes, Cernícalo, Serpiente
+Naturaleza, Salamandra, Pantalones, Superficie, Restaurante, Impermeable, Computadora, Dientedeleón
+Característica, Pájarocarpintero, Pantalonesdelluvia

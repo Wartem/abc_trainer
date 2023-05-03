@@ -1,0 +1,16 @@
+Rua, Mar, Uva, Sol, Voo, Cão, Dia, Rio, Som, Casa, Rato, Jogo, Galo, Doce, Vaca, Anel, Bola, Sapo
+Gota, Doce, Óleo, Café, Ouro, Gelo, Chip, Loja, Gato, Água, Olmo, Flor, Data, Chão, Sapo, Leão, Pato
+Rosa, Lata, Casa, Coisa, Filme, Grupo, Areia, Carta, Pombo, Motor, Cisne, Abeto, Porco, Natal, Lápis
+Rádio, Peixe, Pajem, Clipe, Calça, Sabiá, Forno, Pilar, Banda, Piano, Floco, Carta, Noite, Chuva
+Avião, Veado, Chave, Lugar, Nuvem, Túnel, Manhã, Vento, Fatos, Carro, Praia, Folha, Pedra, Pedra
+Forma, Dados, Vespa, Vidro, Pinho, Corvo, Botão, Cobra, Cinza, Névoa, Avião, Livro, Fruta, Tigre
+Irmão, Queijo, Animal, Panela, Toalha, Batata, Ouriço, Comida, Almoço, Boneca, Baleia, Frango
+Tulipa, Alface, Ônibus, Cinema, Pardal, Grelha, Abelha, Coelho, Aranha, Tapete, Chapéu, Câmera
+Música, Colher, Igreja, Abelha, Ameixa, Escola, Pacote, Parque, Família, Celular, Camping, Caracol
+Hamster, Cadeira, Lâmpada, Bússola, Caminho, Garrafa, Recurso, Palavra, Inverno, Relógio, Escrita
+Pinguim, Celeiro, Formiga, Esquilo, Carroça, Laranja, Açafrão, Espelho, Abacate, Correio, Memória
+Abóbora, Futebol, Leopardo, Plástico, Bandeira, Natureza, Golfinho, Mosquito, Pica-Pau, Joaninha
+Floresta, Carvalho, Edifício, Chuveiro, Concreto, Luzdosol, Banheiro, Escorpião, Relâmpago
+Bicicleta, Crocodilo, Diamantes, Francelho, Especiaria, Piquenique, Salamandra, Prateleira
+Superfície, Computador, Restaurante, Dentedeleão, Travesseiro, Capadechuva, Calçadechuva
+Guarda-Chuva, Animaisdeestimação, Repelentedemosquitos
