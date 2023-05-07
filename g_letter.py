@@ -1,5 +1,6 @@
 import constants
 from game import Game
+import pygame
 from strings_on_screen import StringImage
 from letter_handler import LetterHandler
 
@@ -39,6 +40,8 @@ class GameLetterMix(Game):
         
         self.string_in_use = self.letter_handler.set_letter_in_use()
         self.string_image = StringImage(self.font_path, self.string_in_use, self.screen, 1800, 0, 0, self.background_color, self.text_color)
+        
+        pygame.display.set_caption(f"{self.caption} - {self.mode_name}")
         
         
     def set_letter_handler(self):

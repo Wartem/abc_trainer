@@ -14,7 +14,6 @@ def open_with_nano(file_path, editor='nano'):
         print(f"{editor} is not installed on this system.")
         
         
-        
 import webbrowser
 
 def open_with_webbrowser(file_path):

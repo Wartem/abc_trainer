@@ -1,4 +1,5 @@
 from game import Game
+import pygame
 
 import constants
 from strings_on_screen import StringImage
@@ -18,6 +19,9 @@ class GameAllOnce(Game):
         
         self.string_in_use = self.letter_handler.set_letter_in_use()
         self.string_image = StringImage(self.font_path, self.string_in_use, self.screen, 1800, 0, 0, self.background_color, self.text_color)
+        
+        #self.mt_unique_txt = self.menu_texts[self.lang_code]["Unique"]
+        pygame.display.set_caption(f"{self.caption} - {self.mode_name}")
         
         
     def set_letter_handler(self):

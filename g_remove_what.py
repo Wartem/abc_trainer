@@ -1,4 +1,5 @@
 import random
+import pygame
 
 import constants
 from game import Game
@@ -15,6 +16,10 @@ class GameRemoveWhat(Game):
         self.set_letter_handler()
         self.string_in_use = self.letter_handler.set_letter_in_use()
         self.string_image = StringImage(self.font_path, self.get_pic_text(), self.screen, 1800, 0, 0, self.background_color, self.text_color)
+        
+        #self.mt_unique_txt = self.menu_texts[self.lang_code]["Unique"]
+        #pygame.display.set_caption(f"{self.caption} - {self.mt_unique_txt}")
+        pygame.display.set_caption(f"{self.caption} - {self.mode_name}")
         
 
     def get_pic_text(self):
@@ -64,7 +69,7 @@ class GameRemoveWhat(Game):
             if self.string_in_use:
                 if self.instructions:
                     self.tts.queue_text(self.trans.tr('Good', self.lang))
-                    self.tts.queue_text(self.trans.tr('Unique', self.lang, True))
+                    self.tts.queue_text(self.trans.tr('Unique', self.lang))
                                         
                 self.draw()
                     
@@ -76,9 +81,13 @@ class GameRemoveWhat(Game):
         
                 
     def handle_key_pressed(self, key_pressed):
-        if key_pressed.upper() == self.string_in_use.upper():
-            self.handle_correct_key_pressed(key_pressed)
-            return
-            
-        self.tts.queue_text(f"{self.trans.tr('Try', self.lang)} {self.string_in_use}", True)
-        self.letter_handler.correct_counter = 0
+        start = not self.tts._audio_queue and self.letter_handler.correct_counter != self.letter_handler.correct_counter_goal
+        
+        if start:
+        
+            if key_pressed.upper() == self.string_in_use.upper():
+                self.handle_correct_key_pressed(key_pressed)
+                return
+                
+            self.tts.queue_text(f"{self.trans.tr('Try', self.lang)} {self.string_in_use}", True)
+            self.letter_handler.correct_counter = 0

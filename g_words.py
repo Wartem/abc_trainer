@@ -1,6 +1,5 @@
 import pygame
 import os
-import sys
 
 import constants
 from strings_on_screen import StringImage   
@@ -9,6 +8,37 @@ from game import Game
 from word import Word
 from translator import Translator
 from settings import Settings
+
+'''
+The code is defining a class GameWords that inherits from the Game class. The class has several methods including __init__, 
+init_extended, play_new_word, next_word, init_new_word, next_char, handle_correct_key_pressed, check_if_correct, and handle_key_pressed.
+
+In the __init__ method, the class initializes variables such as mode_name, settings, lang_code, path, and words. It also sets the 
+caption for the pygame display.
+
+The init_extended method calls draw_mode_welcome to display instructions to the user. The play_new_word method plays 
+audio to prompt the user to write a word. If instructions are set to True, it prompts the user to take a letter and 
+speaks the current character of the word.
+
+The next_word method removes the first word from the list of words and returns a Word instance for the word removed. 
+If there are no more words left, it queues audio to congratulate the user on their progress and sets progress to constants.PROGRESS_WIN.
+
+The init_new_word method queues audio to congratulate the user on writing the previous word if instructions are set to True. 
+It then creates a StringImage object to display the remaining characters of the new word and sets self.word to the next word.
+
+The next_char method attempts to move to the next character in the word by calling the next_char method of the Word object. 
+If this raises an exception, it calls init_new_word and returns False, otherwise it returns True.
+
+The handle_correct_key_pressed method queues audio to speak the key pressed, moves on to the next character by calling next_char, 
+and updates the StringImage object with the remaining characters of the word.
+
+The check_if_correct method checks if the key pressed is correct by checking if it matches the upper case of the current 
+character in the word or if it matches a character in the extra_chars dictionary.
+
+Lastly, the handle_key_pressed method handles a key press event. It checks if the audio queue is empty and the 
+current word is completely viewed to initiate audio. If the key pressed is correct, it calls handle_correct_key_pressed. 
+Otherwise, it queues audio to prompt the user to try again.
+'''
 
 '''
 Potential issues:
@@ -54,10 +84,14 @@ class GameWords(Game):
         self.word = self.next_word()
         
         # Caption
-        self.caption = Settings.r_instructions()[self.lang]["Caption"]
-        self.mt_words_txt = self.menu_texts[self.lang_code]["Words"]
+        #self.caption = Settings.r_instructions()[self.lang]["Caption"]
+        #self.mt_words_txt = self.menu_texts[self.lang_code]["Words"]
         
-        pygame.display.set_caption(f"{self.mt_words_txt} - {self.caption}")
+        #self.caption = self.caption + " " + self.mode_name
+        
+        #pygame.display.set_caption(f"{self.mt_words_txt} - {self.caption}")
+        #pygame.display.set_caption(f"{self.caption} - {self.mt_words_txt}")
+        pygame.display.set_caption(f"{self.caption} - {self.mode_name}")
         
         
     def init_extended(self):
@@ -68,13 +102,10 @@ class GameWords(Game):
         
     
     def play_new_word(self):
-        #self.tts.queue_text(self.tr('Press')) # Tryck på
-        #self.tts.queue_text("Skriv ordet")
         self.tts.queue_text(self.trans.tr('Write word', self.lang))
         self.tts.queue_text(self.word.name())
         
         if self.instructions: 
-            #self.tts.queue_text("Ta bokstaven")
             self.tts.queue_text(self.trans.tr('Take letter', self.lang))
             self.tts.queue_text(self.word.current_char())
         
@@ -82,8 +113,7 @@ class GameWords(Game):
     def next_word(self):
         try:
             self.draw()
-            #self.string_image = StringImage("", self.screen)
-
+            
             return Word(self.words.pop(0).replace(" ", ""))
             
         except:
@@ -93,15 +123,11 @@ class GameWords(Game):
             
             self.progress = constants.PROGRESS_WIN
             
-            #raise CustomException()
-            
             self.word = None
             
     
     def init_new_word(self):
-        print("Next word")
-        #self.draw()
-        #self.tts.queue_text("BRA!")
+        ###print("Next word")
         self.tts.queue_text(self.trans.tr('Good', self.lang))
         if self.instructions:
             
@@ -113,11 +139,9 @@ class GameWords(Game):
         self.word = self.next_word()
 
         if self.word:
-            #if self.instructions:    
             self.play_new_word()
-                #self.draw()
                 # TODO: Make the last completed word go away/ empty screen. 
-                #self.string_image = StringImage("", self.screen, self.font.title(), 1800, 0, 0, self.background_color, self.text_color)
+
                 
         
     def next_char(self):
@@ -130,8 +154,7 @@ class GameWords(Game):
             return False
     
     
-    def handle_correct_key_pressed(self, key_pressed):
-        #if self.instructions:    
+    def handle_correct_key_pressed(self, key_pressed):  
         self.tts.queue_text(f"{key_pressed}", True)
         
         if self.next_char():
@@ -139,13 +162,10 @@ class GameWords(Game):
             if self.instructions:
                 self.tts.queue_text(self.trans.tr('Take', self.lang))
                 self.tts.queue_text(self.word.current_char())
-                #self.draw() ???
                 
             self.string_image = StringImage(self.font_path, self.word.sub_view(), self.screen, 1800, 0, 0, self.background_color, self.text_color)
             
         else:
-            #self.string_image = StringImage("", self.screen)
-            #self.draw()
             pass
         
         
@@ -155,14 +175,19 @@ class GameWords(Game):
         
         current = self.word.current_char().lower()
         
-        print(current, key_pressed)
+        ###print(current, key_pressed)
 
         if current in self.extra_chars and self.extra_chars[current] == key_pressed.lower():
             return True
         
                 
     def handle_key_pressed(self, key_pressed):
-        if self.word:
+        
+        ###print("self.word.unviewed_chars()", self.word.unviewed_chars())
+        
+        start = self.tts._audio_queue and self.word._viewable_chars == 0
+        
+        if self.word and not start:
             if self.check_if_correct(key_pressed):
                 self.handle_correct_key_pressed(key_pressed)
                 self.draw()

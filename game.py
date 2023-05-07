@@ -34,7 +34,8 @@ class Game:
         self.background_color = ColorConst.BEIGE
         
         self.mode_name = "Welcome"
-        #were gags invented in 1985? KEKW
+        self.img_folder = "img/"
+        
         # Clock
         self.clock = pygame.time.Clock()
         
@@ -45,7 +46,6 @@ class Game:
         self.read_settings()
         if not self.user_name:
             self.user_name = "User"
-        
         
         self.settings = Settings.r_setup()
         self.menu_texts = Settings.r_menu_text()
@@ -74,7 +74,7 @@ class Game:
         
         # Create the Exit button in the upper left corner    
         # Save png to file
-        back_img_file = "back_button.png"
+        back_img_file = f"{self.img_folder}back_button.png"
         self.gen.create_exit_button(back_img_file)
         self.exit_button = pygame.image.load(back_img_file) #pygame.Rect(0, 0, 50, 25)
         self.string_image = StringImage(self.font_path, "", self.screen, 1800, 0, 0, self.background_color, self.text_color)
@@ -153,8 +153,8 @@ class Game:
     
     # Changed April 30
     def draw_mode_welcome(self):
-        string_image = StringImage(self.font_path, self.mode_name, self.screen) #self.tr(self.mode_name), self.screen)
-        string_image.background_color = self.background_color # ColorConst.GREEN3 #YELLOW3
+        string_image = StringImage(self.font_path, self.mode_name, self.screen) 
+        string_image.background_color = self.background_color 
         string_image.text_color = self.text_color
         string_image.update()
         pygame.display.flip()
@@ -171,7 +171,7 @@ class Game:
             None
         """
             
-        if InputFunc.exit_event_pressed(events) or InputFunc.esc_pressed_event(events):
+        if InputFunc.is_exit_event(events) or InputFunc.is_escape_event(events):
             self.progress = constants.PROGRESS_END
             return
         
@@ -222,6 +222,8 @@ class Game:
         x = max(x, 400)
         y = max(y, 400)
         
+        Settings.write_window_size_settings(x, y)
+        
         self.screen = pygame.display.set_mode((x, y), pygame.RESIZABLE)
     
     '''
@@ -245,7 +247,6 @@ class Game:
         self.handle_key_input(events)
         self.handle_mouse_input(events)
         self.handle_window_size_changed(events)
-        #self.tts.check_queue()
         self.draw_error_no_internet()
         self.draw()
         
@@ -256,9 +257,6 @@ class Game:
                 self.end_after_tts()
 
             self.clock.tick(self.FPS) 
-            
-            #if self.internet_access.get_status(): 
-            #print("Internet OK")
             
             events = self.get_events()
             
@@ -274,6 +272,6 @@ class Game:
     
     
     def game_loop(self):
-        print(self.mode_name)
+        ###print(self.mode_name)
         self.init_extended()
         self.run()

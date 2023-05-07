@@ -51,7 +51,6 @@ class TheAlphabet:
         return ''.join(chars)
     
 
-
 class LetterHandler():
     """Handles the chars used for the game
     """    
@@ -74,7 +73,7 @@ class LetterHandler():
         self.correct_counter_goal = correct_counter_goal
         self.time_limit = time_limit
         self.lang = lang
-        self.repetitions = repetitions
+        self.repetitions = repetitions if repetitions else 1
         self.case = case
         self.chars_excluded = chars_excluded
         
@@ -94,21 +93,14 @@ class LetterHandler():
         self.alphabet = TheAlphabet(lang, case, chars_excluded, start_string)
         
         # Needs to have all the chars
-        self.letters_to_add = [] # list("ABCDEF")
-        #self.available_letters = [*sorted(self.alphabet.chars)] # add back
+        self.letters_to_add = [] 
         self.available_letters = self.alphabet.chars
 
         # Add to list available list, only the chars which in start_string, keeping cases. 
-        
         if self.start_string:
-            #self.available_letters = #random.shuffle([*self.alphabet.chars] * self.repetitions)
-            #self.available_letters = [*self.alphabet.chars]
             self.available_letters = [*self.alphabet.chars * self.repetitions]
             [self.add_to_available_letters(c) for c in self.letters_to_add if c.lower() in self.start_string.lower()]
         else:
-            #self.available_letters = [*sorted(self.alphabet.chars, key=locale.strxfrm)]
-            #self.available_letters = [*sorted(self.alphabet.chars, key=sorted(self.alphabet.chars))]
-            
             if case == "Both In Order":
                 self.available_letters = [*self.alphabet.chars]
             else:
@@ -139,11 +131,9 @@ class LetterHandler():
             print("self.available_letters.remove(self.letter_in_use) failed")
             
             new_chars = [char] * self.repetitions
-            #print(new_chars)
             self.available_letters.extend(new_chars)
-            #print("sdsdd", self.available_letters)
-        
-        try: # if self.letters_to_add:
+
+        try: 
             if char in self.letters_to_add:
                 self.letters_to_add.remove(char)
         except ValueError:
@@ -154,7 +144,7 @@ class LetterHandler():
         
         
         if not self.available_letters:
-            print("not self.available_letters")
+            ###print("not self.available_letters")
             return ""
         
         # Avoid taking the same letter again when getting new random
@@ -204,12 +194,11 @@ class LetterHandler():
         
     def _add_letter_if_any_left_to_add(self):
         
-        print("letters_to_add:", self.letters_to_add)
-        print("available_letters:", self.available_letters)
+        ###print("letters_to_add:", self.letters_to_add)
+        ###print("available_letters:", self.available_letters)
         
         if self.letters_to_add:
             
-            #formated_letters_to_add = ''.join(self.letters_to_add).lower()
             added = False
 
             random.shuffle(self.letters_to_add)
@@ -231,5 +220,6 @@ class LetterHandler():
                 self.add_to_available_letters(new_letter)
                 
         else: 
-            print("self.letters_to_add is empty")
+            pass
+            ###print("self.letters_to_add is empty")
         

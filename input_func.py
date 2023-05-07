@@ -15,18 +15,20 @@ The unicodedata module may not work as expected for all languages and character
 sets, so it may be necessary to consider other approaches for filtering input.
 '''
 
-#from pygame.locals import K_UP, K_DOWN, K_LEFT, K_RIGHT, K_ESCAPE, KEYDOWN, QUIT
 
 class InputFunc:
- 
-    def exit_event_pressed(events):
+    
+    @staticmethod
+    def is_exit_event(events):
         for event in events:
             if event.type == pygame.QUIT:
                 return True
-
+            
         return False
 
-    def esc_pressed_event(events):
+
+    @staticmethod
+    def is_escape_event(events):
         for event in events:
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_ESCAPE:
@@ -45,5 +47,6 @@ class InputFunc:
             if event.type == pygame.KEYDOWN:
                 if event.unicode and unicodedata.category(event.unicode)[0] in "LN":
                     return pygame.key.name(event.key).upper()
+                
 
         return False

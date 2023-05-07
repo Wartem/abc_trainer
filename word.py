@@ -4,7 +4,15 @@ class Word():
     def __init__(self, str_) -> None:
         self._name = str_
         self._viewable_chars = 0
-        
+    
+    
+    def __len__(self):
+        return len(self._name)
+    
+    
+    def unviewed_chars(self):
+        return len(self._name) - self._viewable_chars
+    
     
     def next_char(self):
         self._viewable_chars += 1

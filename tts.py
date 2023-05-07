@@ -47,7 +47,7 @@ class TTS:
 
     def queue_text(self, text, stop_current=False):
         
-        print("Text added for playing: -->" + text + "<-- ")
+        ###print("Text added for playing: -->" + text + "<-- ")
         
         if stop_current:
             self.stop_playing()
@@ -87,9 +87,10 @@ class TTS:
             if file_size <= 1:
                 # Remove the file if its size is 1 byte or lower
                 os.remove(file_path)
-                print(f"File {file_path} removed.")
+                #print(f"File {file_path} removed.")
             else:
-                print(f"File {file_path} not removed. File size is {file_size} bytes.")
+                pass
+                #print(f"File {file_path} not removed. File size is {file_size} bytes.")
         
     
     def wait_for_internet(self, max_sec):
@@ -130,10 +131,7 @@ class TTS:
                 print(f"_save_tts error {file_name}: {e}")
                 if self.wait_(3):
                     return False
-                    #self._save_tts(text, file_name)
-                    #pass # uncomment this line if you need to do something here later
 
-        #if not self._remove_bad_file(file_name):
         return True
                 
                 
@@ -146,7 +144,6 @@ class TTS:
         if not busy and self.has_been_busy:  
             self.first_done = True
             
-        #return mixer.music.get_busy()
         return busy
     
 
@@ -161,7 +158,6 @@ class TTS:
                     mixer.music.play()
                 except Exception as e:
                     print(f"_play_file error for {next_file}: {e}")
-                    #self._remove_bad_file(next_file)
             else:
                 print(f"{next_file} doesn't exist.")
                 
@@ -173,7 +169,6 @@ class TTS:
             
             try:
                 mixer.music.load(next_file[0])
-                #print(next_file[0])
                 mixer.music.play()
                 
             except OSError:

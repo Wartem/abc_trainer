@@ -102,7 +102,7 @@ def get_pyside6_font_org(font_path, font_size):
     families = QFontDatabase.applicationFontFamilies(font_id)
     
     if not families:
-        print("error font families", font_id, font_path)
+        print("Error font families", font_id, font_path)
         
     else:
         font_family = QFontDatabase.applicationFontFamilies(font_id)[0]

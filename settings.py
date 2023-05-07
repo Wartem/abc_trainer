@@ -25,31 +25,6 @@ instructions_lang_json = os.path.join(current_directory, 'settings', 'instructio
 extra_chars_json = os.path.join(current_directory, 'settings', 'extra_chars_not_yet_in_use.json')
 
 
-""" import sys
-# Get the path to the folder containing the executable file
-exe_dir = os.path.dirname(sys.executable)
-
-# Get the path to the settings folder
-settings_dir = os.path.join(exe_dir, 'settings')
-
-# Set the paths to the JSON files
-setup_json = os.path.join(settings_dir, 'setup.json')
-menu_text_json = os.path.join(settings_dir, 'menu_text.json')
-instructions_lang_json = os.path.join(settings_dir, 'instructions.json')
-extra_chars_json = os.path.join(settings_dir, 'extra_chars.json') """
-
-""" if getattr(sys, 'frozen', False):
-    # running from bundled exe
-    current_directory = sys._MEIPASS
-else:
-    # running normally
-    current_directory = os.path.dirname(os.path.abspath(__file__))
-
-setup_json = os.path.join(current_directory, 'settings', 'setup.json')
-menu_text_json = os.path.join(current_directory, 'settings', 'menu_text.json')
-instructions_lang_json = os.path.join(current_directory, 'settings', 'instructions.json')
-extra_chars_json = os.path.join(current_directory, 'settings', 'extra_chars.json') """
-
 default_settings = {
     "user_name": "User",
     "slow_speech": False,
@@ -73,17 +48,12 @@ class Settings:
             return random.choice(Settings.all_settings[setting]).upper()
         return Settings.all_settings[setting].upper()
     
+    
     @staticmethod
     def read_json(json_file):
         with open(json_file, "r", encoding="utf-8") as f:
                 return dict(json.load(f))
-        
-
-        '''
-        0 arguments returns the settings.json as a dict.
-        arg1 None and arg2 setting returns the setting in the settings.
-        2 arguments returns the setting arg2 in the specified dict arg1.
-        '''    
+            
 
     @staticmethod
     def r_setup(settings: Optional[dict] = None, single_setting: Optional[str] = None) -> Union[dict, str]:
@@ -149,7 +119,6 @@ class Settings:
     def change_setting(key, value):
         with open(setup_json, "r+", encoding="utf-8") as f:
 
-            # json.dump(self.settings, outfile)
             data = json.load(f)
             data[key] = value
             f.seek(0)  # <--- resets file position to the beginning.
@@ -172,5 +141,16 @@ class Settings:
         with open(setup_json, "r+", encoding="utf-8") as f:
             #f.seek(0)  # resets file position to the beginning.
             f.truncate()
-            #print(settings)
             json.dump(settings, f, indent=4, ensure_ascii=False)
+            
+            
+    @staticmethod      
+    def write_window_size_settings(width: int, height: int):
+        with open(setup_json, "r+", encoding="utf-8") as f:
+            data = json.load(f)  # Load existing settings
+            data["window_width"] = width
+            data["window_height"] = height
+            # You can make other changes to the `data` dictionary here
+            f.seek(0)  # Reset file position to the beginning
+            f.truncate()
+            json.dump(data, f, indent=4, ensure_ascii=False)  # Save modified settings

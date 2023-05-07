@@ -1,11 +1,5 @@
-import string
 import pygame
-import sys
-import os
 
-#sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
-
-#from color_constants import ColorConst
 from color_constants import ColorConst
 from fonts import get_pygame_font
 
@@ -17,7 +11,6 @@ class StringImage(pygame.sprite.Sprite):
         self.screen_rect = self.screen.get_rect()
         self.x = x
         self.y = y
-        #self.font_name = font_name
         self.font_size = font_size
         self.font = None
         self.font_path = font_path
@@ -31,7 +24,6 @@ class StringImage(pygame.sprite.Sprite):
 
 
     def update_text_size(self):
-        #self.font = self._generate_font() 
         self.font = get_pygame_font(self.font_path, self.font_size)
         self.img = self._generate_img()
         self.img = self.scale_img(self.img)
@@ -59,21 +51,11 @@ class StringImage(pygame.sprite.Sprite):
         
         
     def update(self):
-        #self._check_pos_limits()
         self._draw()
         
         
     def scale_img(self, image_surface: pygame.Surface) -> pygame.Surface:
         """Scales the image to fit the screen.
-        
-        Black box fix:
-        The issue is likely that you are trying to scale a surface that has a colorkey set. When you scale the surface, 
-        the colorkey is not being scaled with the rest of the surface, so the area that should be transparent is instead 
-        being filled with the colorkey color, which is black by default.
-
-        One way to fix this is to not set a colorkey when creating the surface, or to remove the colorkey after 
-        scaling the surface. Another option is to use the pygame.Surface.convert_alpha() method on the surface 
-        before scaling it, which will preserve the transparent areas when scaling.
 
         Args:
             image_surface (pygame.Surface): The image to be scaled.

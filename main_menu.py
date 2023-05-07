@@ -17,7 +17,6 @@ from PySide6.QtGui import QPixmap, QIcon
 from PySide6.QtGui import QColor
 from PySide6.QtWidgets import QHBoxLayout, QLabel
 
-#from g_words import GameWords
 from g_words import GameWords
 
 import start_text_editor
@@ -47,6 +46,8 @@ class MainWindow(QtWidgets.QMainWindow):
         
         self.trans = Translator()
         self.menu_texts = Settings.r_menu_text()
+        
+        self.img_folder = "img/"
         
         self.settings = Settings.r_setup()
         self.lang_code = self.trans.get_code(self.settings["language"])
@@ -85,7 +86,15 @@ class MainWindow(QtWidgets.QMainWindow):
         
         self.build_GUI()
         
+    
+    def check_value(self, value):
+        if value.isdigit():
+            value = int(value)
+            if value >= 400:
+                return value
         
+        return 400
+      
         
     def read_menu_titles(self):
         self.lang_code = self.trans.get_code(self.settings["language"])
@@ -103,8 +112,13 @@ class MainWindow(QtWidgets.QMainWindow):
         self.mt_full_screen = self.menu_texts[self.lang_code]["Full screen"]
         self.mt_background_color = self.menu_texts[self.lang_code]["Background color"]
         self.mt_text_color_text = self.menu_texts[self.lang_code]["Text color"]
+        
         self.mt_window_width = self.menu_texts[self.lang_code]["Window width"]
+        #self.mt_window_width = str(self.check_value(self.mt_window_width))
+        
         self.mt_window_height = self.menu_texts[self.lang_code]["Window height"]
+        #self.mt_window_height = str(self.check_value(self.mt_window_height))
+        
         self.mt_language = self.menu_texts[self.lang_code]["Language"]
         self.mt_font = self.menu_texts[self.lang_code]["Font"]
         self.mt_case = self.menu_texts[self.lang_code]["Letter case"]
@@ -140,6 +154,7 @@ class MainWindow(QtWidgets.QMainWindow):
         self.formLayout.labelForField(self.hbox_background).setText(self.mt_background_color)
         self.formLayout.labelForField(self.text_color_hbox).setText(self.mt_text_color_text)
         self.formLayout.labelForField(self.windowWidthLineEdit).setText(self.mt_window_width)
+        
         self.formLayout.labelForField(self.windowHeightLineEdit).setText(self.mt_window_height)
         self.formLayout.labelForField(self.languageComboBox).setText(self.mt_language)
         self.formLayout.labelForField(self.fontComboBox).setText(self.mt_font)
@@ -171,12 +186,12 @@ class MainWindow(QtWidgets.QMainWindow):
         self.background_color = self.settings["background_color"]
         self.text_color = self.settings["text_color"]
 
-        random_letters_pic = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], self.mt_mixed_txt, file_name="random_letters.png", background_color=self.background_color, text_color=self.text_color) # Random letters ".png")
+        random_letters_pic = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], self.mt_mixed_txt, file_name=f"{self.img_folder}random_letters.png", background_color=self.background_color, text_color=self.text_color) # Random letters ".png")
         self.button1.setIcon(QtGui.QIcon(random_letters_pic))
-
+        
         pic_txt = {"UPPER": "A-Z", "lower": "a-z", "Both": "A-Z & a-z"}
         pic_txt = pic_txt[self.settings["letter_case"]]
-        self.window_icon_path = f"{pic_txt}.png"
+        self.window_icon_path = f"{self.img_folder}{pic_txt}.png"
         file_name = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], pic_txt, file_name=self.window_icon_path, background_color=self.background_color, text_color=self.text_color)
         
         self.button2.setIcon(QtGui.QIcon(file_name))
@@ -185,10 +200,10 @@ class MainWindow(QtWidgets.QMainWindow):
         icon = QIcon(file_name)
         self.setWindowIcon(icon)
         
-        words_pic_path = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], self.mt_words_txt, file_name="words.png", background_color=self.background_color, text_color=self.text_color) # Words
+        words_pic_path = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], self.mt_words_txt, file_name=f"{self.img_folder}words.png", background_color=self.background_color, text_color=self.text_color) # Words
         self.button3.setIcon(QtGui.QIcon(words_pic_path))
         
-        unique_file_path = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], self.mt_unique_txt, file_name="unique.png", background_color=self.background_color, text_color=self.text_color)
+        unique_file_path = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], self.mt_unique_txt, file_name=f"{self.img_folder}unique.png", background_color=self.background_color, text_color=self.text_color)
         self.button4.setIcon(QtGui.QIcon(unique_file_path))
       
         
@@ -202,7 +217,7 @@ class MainWindow(QtWidgets.QMainWindow):
         
         self.font_name_in_use = self.settings["font"]
         
-        random_letters_pic = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], self.mt_mixed_txt, file_name="random_letters.png", background_color=self.background_color, text_color=self.text_color) # Random letters ".png")
+        random_letters_pic = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], self.mt_mixed_txt, file_name=f"{self.img_folder}random_letters.png", background_color=self.background_color, text_color=self.text_color)
 
         self.button1 = QtWidgets.QPushButton() 
         self.button1.setIcon(QtGui.QIcon(random_letters_pic))
@@ -211,7 +226,7 @@ class MainWindow(QtWidgets.QMainWindow):
         pic_txt = {"UPPER": "A-Z", "lower": "a-z", "Both": "A-Z & a-z"}
         pic_txt = pic_txt[self.settings["letter_case"]]
         
-        self.window_icon_path = f"{pic_txt}.png"
+        self.window_icon_path = f"{self.img_folder}{pic_txt}.png"
         
         window_icon_pic = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], pic_txt, file_name=self.window_icon_path, background_color=self.background_color, text_color=self.text_color)
         
@@ -223,13 +238,13 @@ class MainWindow(QtWidgets.QMainWindow):
         icon = QIcon(window_icon_pic)
         self.setWindowIcon(icon)
         
-        words_pic_path = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], self.mt_words_txt, file_name="words.png", background_color=self.background_color, text_color=self.text_color) # Words
+        words_pic_path = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], self.mt_words_txt, file_name=f"{self.img_folder}words.png", background_color=self.background_color, text_color=self.text_color) # Words
 
         self.button3 = QtWidgets.QPushButton() 
         self.button3.setIcon(QtGui.QIcon(words_pic_path))
         self.button3.clicked.connect(self.show_pygame_3)
         
-        unique_file_path = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], self.mt_unique_txt, file_name="unique.png", background_color=self.background_color, text_color=self.text_color)
+        unique_file_path = self.gen.text_image(self.pyside6_fonts[self.font_name_in_use][1], self.mt_unique_txt, file_name=f"{self.img_folder}unique.png", background_color=self.background_color, text_color=self.text_color)
 
         self.button4 = QtWidgets.QPushButton()
         self.button4.setIcon(QtGui.QIcon(unique_file_path))
@@ -294,16 +309,40 @@ class MainWindow(QtWidgets.QMainWindow):
         current_year = str(datetime.now().year)
         #label = QtWidgets.QLabel(f"This app is free to use.\nDonations are much apprecieated and makes\ncontinued developement possible. \
                                  #\n\nWebsite: wartem.se\n\nCopyright © {current_year} Mårten Wasteson. All rights reserved.\nAlias Wartem.")
-        label = QLabel(f"""<b>ABC Trainer</b><br>Version 1.0<br><br>ABC Trainer is a specialized to helps users learn the letters of the alphabet<br>through 
-                       four interactive exercises. The goal of each excersise<br>is to press the correct keys (A-Z) on your keyboard.
+        label = QLabel(f"""
+                       <b>ABC Trainer</b>
                        <br>
-                       <br>Customize your experience from the settings menu, accessed by clicking on 'File' in the menu bar.
-                       <br>Settings such as audio volume, language and color scheme can be adjusted here.
+                       Version 1.0
+                       <br><br>
+                       ABC Trainer is a specialized to helps users learn the letters of the alphabet
+                       <br>
+                       through four interactive exercises.
+                       <br>
+                       The design is made clean and simple, with no distracting elements.
+                       <br>
+                       <br>
+                       The goal of each excersise is to press the correct keys (A-Z) on your keyboard.
+                       <br>
+                       Instructions and feedback are spoken aloud using Text-to-Speech.
+                       <br>
+                       <br>
+                       Customize your experience from the settings menu, accessed by clicking on 'File' in the menu bar.
+                       <br>
+                       Settings such as audio volume, language and color scheme can be adjusted here.
                        
                        <br>
-                       <br>This app is free to use and offered to users without any cost.
-                       <br>We greatly appreciate donations, as they support our ongoing development efforts.<br>
-                      <br>For more information, please visit our website at: <a href="https://wartem.se">wartem.se</a><br><br>Copyright © {current_year} Mårten Wasteson. All rights reserved.<br>Alias Wartem.""")
+                       <br>
+                       This app is free to use and offered to users without any cost.
+                       <br>
+                       We greatly appreciate donations, as they support our ongoing development efforts.
+                       <br>
+                       <br>
+                       For more information, please visit our website at: 
+                       <a href="https://www.wartem.se">wartem.se</a>
+                       <br>
+                       <br>
+                       Copyright © {current_year} Mårten Wasteson. 
+                       All rights reserved.<br>Alias Wartem.""")
     
         # Set text interaction flags to enable link interaction
         label.setTextInteractionFlags(Qt.TextBrowserInteraction)
@@ -403,6 +442,10 @@ class MainWindow(QtWidgets.QMainWindow):
 
         self.formLayout.addRow('Background Color', self.hbox_background)
         
+        
+        '''
+        
+        '''
 
         # Create the combo box and add the text color items
         self.text_color_combo = QComboBox(self)
@@ -425,8 +468,17 @@ class MainWindow(QtWidgets.QMainWindow):
 
         # Set the initial label text
         self.updateTextColorLabel()
+        
+        
+        # Set the default value of the combo box to self.settings["background_color"]
+        self.text_color = self.settings["text_color"]
+        for i in range(self.text_color_combo.count()):
+            if self.text_color_combo.itemData(i) == self.text_color:
+                self.text_color_combo.setCurrentIndex(i)
+                break
 
         self.formLayout.addRow('Text Color', self.text_color_hbox)
+        
         
         self.windowWidthLineEdit = QLineEdit(str(self.settings["window_width"]))
         self.formLayout.addRow('Window width', self.windowWidthLineEdit)
@@ -497,8 +549,8 @@ class MainWindow(QtWidgets.QMainWindow):
                 "font": self.fontComboBox.currentText(),
                 "text_color": self.text_color_label.text(),
                 "full_screen": self.fullScreenCheckBox.checkState() == Qt.Checked,
-                "window_width": int(self.windowWidthLineEdit.text()),
-                "window_height": int(self.windowHeightLineEdit.text()),
+                "window_width": self.check_value(self.windowWidthLineEdit.text()),
+                "window_height": self.check_value(self.windowHeightLineEdit.text()),
                 "background_color": self.background_label.text(),
                 "excluded_characters": self.excludedCharsLineEdit.text(),
                 "volume": self.volume_slider.value()
@@ -524,12 +576,14 @@ class MainWindow(QtWidgets.QMainWindow):
     def update_menu(self):
         self.setVisible(True)
         pygame.quit()
+        self.settings = Settings.r_setup()
     
     
     # ToDO: Add try catch for all
     
     def show_pygame_1(self):
         self.init_pygame()
+        self.settings = Settings.r_setup()
         game = GameLetterMix()
         self.set_icon()
         game.game_loop()

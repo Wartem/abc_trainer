@@ -1,16 +1,16 @@
 {
     "user_name": "Player",
     "slow_speech": false,
-    "language": "English",
-    "repetitions": 2,
+    "language": "Swedish",
+    "repetitions": 0,
     "letter_case": "UPPER",
     "instructions": true,
     "font": "Anuphan Bold",
     "text_color": "#000000",
     "full_screen": false,
-    "window_width": 800,
-    "window_height": 600,
+    "window_width": 1244,
+    "window_height": 836,
     "background_color": "#f5f5dc",
     "excluded_characters": "",
-    "volume": 99
+    "volume": 14
 }
