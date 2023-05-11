@@ -84,13 +84,6 @@ class GameWords(Game):
         self.word = self.next_word()
         
         # Caption
-        #self.caption = Settings.r_instructions()[self.lang]["Caption"]
-        #self.mt_words_txt = self.menu_texts[self.lang_code]["Words"]
-        
-        #self.caption = self.caption + " " + self.mode_name
-        
-        #pygame.display.set_caption(f"{self.mt_words_txt} - {self.caption}")
-        #pygame.display.set_caption(f"{self.caption} - {self.mt_words_txt}")
         pygame.display.set_caption(f"{self.caption} - {self.mode_name}")
         
         

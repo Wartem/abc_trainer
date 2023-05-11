@@ -145,17 +145,17 @@ class Game:
     
     # Changed April 30
     def draw_error_no_internet(self):
-        self.string_image = StringImage(self.font_path, "ERROR - No Internet Connection!", self.screen)
-        self.string_image.background_color = ColorConst.RED4
+        self.string_image = StringImage(self.font_path, "ERROR - No Internet Connection!", self.screen, bg_color=ColorConst.RED4, text_color=ColorConst.BLACK)
+        #self.string_image.background_color = ColorConst.RED4
         self.string_image.update()
         pygame.display.flip()
         
     
     # Changed April 30
     def draw_mode_welcome(self):
-        string_image = StringImage(self.font_path, self.mode_name, self.screen) 
-        string_image.background_color = self.background_color 
-        string_image.text_color = self.text_color
+        string_image = StringImage(self.font_path, self.mode_name, self.screen, bg_color=self.background_color, text_color=self.text_color)
+        #string_image.background_color = self.background_color
+        #string_image.text_color = self.text_color
         string_image.update()
         pygame.display.flip()
         
@@ -187,7 +187,7 @@ class Game:
     
     def handle_mouse_input(self, events):
         for event in events:
-            if event.type == pygame.MOUSEBUTTONUP:
+            if event.type == pygame.MOUSEBUTTONDOWN:
                 mouse = pygame.mouse.get_pos()
                 if self.exit_button.get_rect().collidepoint(mouse):
                     self.progress = constants.PROGRESS_END

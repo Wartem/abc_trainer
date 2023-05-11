@@ -486,11 +486,13 @@ class MainWindow(QtWidgets.QMainWindow):
         self.windowHeightLineEdit = QLineEdit(str(self.settings["window_height"]))
         self.formLayout.addRow('Window height', self.windowHeightLineEdit)
         
+        #'Haitian Creole', 'Slovenian', 'Esperanto', 'Lithuanian', 
+        
         self.languageComboBox = QComboBox()
         _lang = ['English', 'French', 'German', 'Italian', 'Spanish', 'Portuguese', 'Swedish', 'Danish', 'Norwegian', 
-                                        'Finnish', 'Polish', 'Dutch','Afrikaans', 'Albanian', 'Esperanto', 'Estonian', 'Croatian', 
-                                        'Haitian Creole', 'Hungarian', 'Indonesian', 'Icelandic', 'Latvian', 'Lithuanian', 'Romanian', 
-                                        'Slovak', 'Slovenian', 'Tagalog (Filipino)', 'Czech', 'Turkish', 'Vietnamese']
+                                        'Finnish', 'Polish', 'Dutch', 'Afrikaans', 'Albanian', 'Estonian', 'Croatian', 
+                                        'Hungarian', 'Indonesian', 'Icelandic', 'Latvian', 'Romanian', 
+                                        'Slovak', 'Tagalog (Filipino)', 'Czech', 'Turkish', 'Vietnamese']
         _lang.sort()
         self.languageComboBox.addItems(_lang)
 

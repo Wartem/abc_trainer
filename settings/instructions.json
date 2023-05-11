@@ -549,5 +549,24 @@
         "Write word": "Kelimeyi yaz",
         "Take letter": "Harfi al",
         "Unique": "Benzersiz harfi alın"
+    },
+    "vi": {
+        "Welcome!": "Chào mừng!",
+        "Try": "Thử lại, nhấn,",
+        "Very good": "Rất tốt!",
+        "Train more": "Luyện nhiều hơn nữa nếu bạn muốn",
+        "Take": "Tốt! Lấy,",
+        "Press": "Nhấn vào,",
+        "Passed": "Bạn đã vượt qua tất cả chúng,",
+        "Caption": "Huấn luyện bàn phím",
+        "Good": "Tốt",
+        "Wrote word": "Bạn đã viết từ",
+        "Words": "Từ",
+        "Lone letter": "Một chữ cái đơn",
+        "Letter mix": "Phối trộn chữ cái",
+        "In order": "Theo thứ tự",
+        "Write word": "Viết từ",
+        "Take letter": "Lấy chữ cái",
+        "Unique": "Lấy chữ cái duy nhất"
     }
 }
