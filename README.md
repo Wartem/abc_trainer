@@ -38,8 +38,6 @@ Modify text and instructions by editing the .json files in the settings folder. 
 
 ## Code Authorship Declaration
 
-## Code Authorship Declaration
-
 To the best of my recollection, all or nearly all code in this project was written by me (Wartem) rather than 
 artificial intelligence or automated code generation tools.
 
