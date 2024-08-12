@@ -1,4 +1,4 @@
 ## ABC_Trainer
  Alphabet training
 
-# ReadMe, proper requirement.txt and more coming soon!
+# ReadMe, proper requirements.txt and more coming soon!
