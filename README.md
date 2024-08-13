@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Click](https://img.shields.io/badge/Click-4A4A55?style=flat&logo=python&logoColor=white)
+![gTTS](https://img.shields.io/badge/gTTS-FF9900?style=flat&logo=google&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-00A86B?style=flat&logo=python&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2C8EBB?style=flat&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-11557C?style=flat&logo=python&logoColor=white)
+
 # ABC_Trainer
 
 ABC_Trainer is a specialized program designed to help users learn the letters of the alphabet through interactive exercises. The program features a clean and simple design, ensuring a distraction-free learning environment. The goal of each exercise is to press the correct keys (A-Z) on your keyboard.
