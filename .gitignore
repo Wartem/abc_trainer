@@ -2,3 +2,7 @@
 /dist/
 /build/
 /env/
+/.venv
+/__pycache__
+/old
+*.mp3

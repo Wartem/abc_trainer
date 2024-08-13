@@ -44,21 +44,24 @@ class Gen():
         font_size_increment = 1
         font_size = 10
         buffer = 50
-        #file_name = 'text_img.png'
 
         # Calculate the size of the text with a given font size
         font = ImageFont.truetype(font_path, font_size)
 
         # Increase font size until the text fits within the image
-        try:
-            while font.getsize(text)[0] < width - buffer and font.getsize(text)[1] < height - buffer:
-                font_size += font_size_increment
+        while True:
+            bbox = font.getbbox(text)
+            if bbox[2] - bbox[0] >= width - buffer or bbox[3] - bbox[1] >= height - buffer:
+                font_size -= font_size_increment  # Go back one step
                 font = ImageFont.truetype(font_path, font_size)
-        except AttributeError:
-            font = ImageFont.truetype(font_path, 40)
+                break
+            font_size += font_size_increment
+            font = ImageFont.truetype(font_path, font_size)
 
-        
-        text_width, text_height = draw.textsize(text, font=font)
+        # Get the final text dimensions
+        bbox = font.getbbox(text)
+        text_width = bbox[2] - bbox[0]
+        text_height = bbox[3] - bbox[1]
         
         # Calculate the position of the text to center it in the image
         text_x_pos = (width - text_width) / 2
@@ -67,8 +70,6 @@ class Gen():
         # Draw the text
         draw.text((text_x_pos, text_y_pos), text, fill=text_color, font=font)
         
-        ###print(file_name)
-
         # Save the image to file
         image.save(file_name)
 

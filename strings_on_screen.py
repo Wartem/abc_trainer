@@ -5,7 +5,7 @@ from fonts import get_pygame_font
 
 
 class StringImage(pygame.sprite.Sprite):
-    def __init__(self, font_path: str, letter_str: str, screen: pygame.Surface, font_size = 1800, x: int = 0, y: int = 0, bg_color = ColorConst.BEIGE, text_color=ColorConst.BLACK):
+    def __init__(self, font_path: str, letter_str: str, screen: pygame.Surface, font_size = 1800, x: int = 0, y: int = 0, bg_color = ColorConst.BEIGE, text_color = ColorConst.BLACK):
         self.text = letter_str
         self.screen = screen
         self.screen_rect = self.screen.get_rect()

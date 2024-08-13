@@ -4,7 +4,7 @@
         "Try": "Try again, Press,",
         "Very good": "Very good!",
         "Train more": "Practice more if you want",
-        "Take": "Good! Take,",
+        "Take": "Good! Press,",
         "Press": "Press on,",
         "Passed": "You passed all of them,",
         "Caption": "Letter training",
@@ -15,15 +15,15 @@
         "Letter mix": "Letter mix",
         "In order": "In order",
         "Write word": "Write the word",
-        "Take letter": "Take the letter",
-        "Unique": "Take the unique letter"
+        "Take letter": "Press the letter",
+        "Unique": "Press the unique letter"
     },
     "sv": {
         "Welcome!": "Välkommen!",
         "Try": "Försök igen, Tryck på,",
         "Very good": "Mycket bra!",
         "Train more": "Träna mer om du vill",
-        "Take": "Bra! Ta,",
+        "Take": "Bra! Tryck,",
         "Press": "Tryck på,",
         "Passed": "Du klarade alla,",
         "Caption": "Bokstavsträning",
@@ -34,15 +34,15 @@
         "Letter mix": "Bokstavsmix",
         "In order": "I ordning",
         "Write word": "Skriv ordet",
-        "Take letter": "Ta bokstaven",
-        "Unique": "Ta den unika bokstaven"
+        "Take letter": "Tryck på bokstaven",
+        "Unique": "Tryck på den unika bokstaven"
     },
     "fr": {
         "Welcome!": "Bienvenue!",
         "Try": "Essayez à nouveau, Appuyez sur,",
         "Very good": "Très bien!",
         "Train more": "Pratiquer plus si vous voulez",
-        "Take": "Bon! Prenez,",
+        "Take": "Bien! Appuyez,",
         "Press": "Appuyez sur,",
         "Passed": "Vous avez réussi tout,",
         "Caption": "Lettre de formation",
@@ -53,15 +53,15 @@
         "Letter mix": "Mélange de lettres",
         "In order": "Dans l'ordre",
         "Write word": "Écrire le mot",
-        "Take letter": "Prendre la lettre",
-        "Unique": "Prenez la lettre unique"
+        "Take letter": "Appuyez sur la lettre",
+        "Unique": "Appuyez sur la lettre unique"
     },
     "es": {
         "Welcome!": "¡Bienvenido!",
         "Try": "Intente de nuevo, Presione,",
         "Very good": "¡Muy bien!",
         "Train more": "Practica más si quieres",
-        "Take": "¡Bueno! Llevar,",
+        "Take": "¡Bien! Presiona,",
         "Press": "Presiona,",
         "Passed": "Pasaste todos,",
         "Caption": "Entrenamiento de letras",
@@ -72,15 +72,15 @@
         "Letter mix": "Mezcla de letras",
         "In order": "En orden",
         "Write word": "Escribe la palabra",
-        "Take letter": "Toma la letra",
-        "Unique": "Tomar la letra única"
+        "Take letter": "Presiona la letra",
+        "Unique": "Presiona la letra única"
     },
     "pt": {
         "Welcome!": "Bem-vindo!",
         "Try": "Tente novamente, Pressione,",
         "Very good": "Molto bene!",
         "Train more": "Esercitati di più se vuoi",
-        "Take": "Bom! Pegue,",
+        "Take": "Boa! Pressione,",
         "Press": "Stampa,",
         "Passed": "Você passou por tudo,",
         "Caption": "treinamento de letras",
@@ -91,15 +91,15 @@
         "Letter mix": "Mistura de letras",
         "In order": "Em ordem",
         "Write word": "Escreva a palavra",
-        "Take letter": "Pegue a letra",
-        "Unique": "Pegue a letra única"
+        "Take letter": "Pressione a letra",
+        "Unique": "Pressione a letra única"
     },
     "de": {
         "Welcome!": "Herzlich willkommen!",
         "Try": "Versuchen Sie es erneut, drücken Sie,",
         "Very good": "Sehr gut!",
         "Train more": "Üben Sie mehr, wenn Sie möchten",
-        "Take": "Nehmen",
+        "Take": "Gut! Drücke,",
         "Press": "Drücken Sie auf,",
         "Passed": "Du hast sie alle bestanden,",
         "Caption": "Buchstabentraining",
@@ -110,15 +110,15 @@
         "Letter mix": "Buchstabensalat",
         "In order": "In Ordnung",
         "Write word": "Schreibe das Wort",
-        "Take letter": "Nimm den Buchstaben",
-        "Unique": "Nehmen Sie den einzigartigen Buchstaben"
+        "Take letter": "Drücke den Buchstaben",
+        "Unique": "Drücke den einzigartigen Buchstaben"
     },
     "it": {
         "Welcome!": "Benvenuti!",
         "Try": "Prova di nuovo, Premere,",
         "Very good": "Molto bene!",
         "Train more": "Pratica ancora se vuoi",
-        "Take": "Bene! Prendere,",
+        "Take": "Bene! Premi,",
         "Press": "Premere,",
         "Passed": "Hai superato tutti loro,",
         "Caption": "Addestramento alla lettera",
@@ -129,15 +129,15 @@
         "Letter mix": "Mescolanza di lettere",
         "In order": "In ordine",
         "Write word": "Scrivi la parola",
-        "Take letter": "Prendi la lettera",
-        "Unique": "Prendi la lettera unica"
+        "Take letter": "Premi la lettera",
+        "Unique": "Premi la lettera unica"
     },
     "da": {
         "Welcome!": "Velkommen!",
         "Try": "Prøv igen, tryk,",
         "Very good": "Meget godt!",
         "Train more": "Øv mere hvis du vil",
-        "Take": "Godt! Tag,",
+        "Take": "Godt! Tryk,",
         "Press": "Tryk på,",
         "Passed": "Du bestod dem alle,",
         "Caption": "Bogstavtræning",
@@ -148,15 +148,15 @@
         "Letter mix": "Bogstavblanding",
         "In order": "I orden",
         "Write word": "Skriv ordet",
-        "Take letter": "Tag bogstavet",
-        "Unique": "Tag det unikke bogstav"
+        "Take letter": "Tryk på bogstavet",
+        "Unique": "Tryk på det unikke bogstav"
     },
     "no": {
         "Welcome!": "Velkommen!",
         "Try": "Prøv igjen, trykk,",
         "Very good": "Veldig bra!",
         "Train more": "Øv mer hvis du vil",
-        "Take": "Godt! Ta,",
+        "Take": "Bra! Trykk,",
         "Press": "Trykk på,",
         "Passed": "Du besto alle,",
         "Caption": "Bokstavtrening",
@@ -167,15 +167,15 @@
         "Letter mix": "Brevblanding",
         "In order": "I rekkefølge",
         "Write word": "Skriv ordet",
-        "Take letter": "Ta bokstaven",
-        "Unique": "Ta det unike brevet"
+        "Take letter": "Trykk på bokstaven",
+        "Unique": "Trykk på den unike bokstaven"
     },
     "fi": {
         "Welcome!": "Tervetuloa!",
         "Try": "Yritä uudelleen, paina,",
         "Very good": "Erittäin hyvä!",
         "Train more": "Harjoittele lisää jos haluat",
-        "Take": "Hyvä! Ota,",
+        "Take": "Hyvä! Paina,",
         "Press": "Paina,",
         "Passed": "Läpäisit kaikki,",
         "Caption": "Kirje koulutus",
@@ -186,15 +186,15 @@
         "Letter mix": "Kirjainsekoitus",
         "In order": "Järjestyksessä",
         "Write word": "Kirjoita sana",
-        "Take letter": "Ota kirjain",
-        "Unique": "Ota ainutlaatuinen kirjain"
+        "Take letter": "Paina kirjainta",
+        "Unique": "Paina uniikkia kirjainta"
     },
     "pl": {
         "Welcome!": "Witaj!",
         "Try": "Spróbuj ponownie, naciśnij,",
         "Very good": "Bardzo dobrze!",
         "Train more": "Ćwicz więcej jeśli chcesz",
-        "Take": "Dobrze! Weź,",
+        "Take": "Dobrze! Naciśnij,",
         "Press": "Naciśnij,",
         "Passed": "Przeszedłeś je wszystkie,",
         "Caption": "Szkolenie literowe",
@@ -205,15 +205,15 @@
         "Letter mix": "Mieszanka liter",
         "In order": "W kolejności",
         "Write word": "Napisz słowo",
-        "Take letter": "Weź literę",
-        "Unique": "Weź unikalną literę"
+        "Take letter": "Naciśnij literę",
+        "Unique": "Naciśnij unikalną literę"
     },
     "nl": {
         "Welcome!": "Welkom!",
         "Try": "Probeer het opnieuw, druk,",
         "Very good": "Heel goed!",
         "Train more": "Oefen meer als je wilt",
-        "Take": "Goed! Neem,",
+        "Take": "Goed! Druk,",
         "Press": "Druk,",
         "Passed": "Je hebt ze allemaal gehaald,",
         "Caption": "Letter opleiding",
@@ -224,15 +224,15 @@
         "Letter mix": "Letter mix",
         "In order": "In orde",
         "Write word": "Schrijf het woord",
-        "Take letter": "Neem de letter",
-        "Unique": "Neem de unieke letter"
+        "Take letter": "Druk op de letter",
+        "Unique": "Druk op de unieke letter"
     },
     "af": {
         "Welcome!": "Welkom!",
         "Try": "Probeer weer, Druk,",
         "Very good": "Baie goed!",
         "Train more": "Oefen meer as jy wil",
-        "Take": "Goed! Neem,",
+        "Take": "Goed! Druk,",
         "Press": "Druk op,",
         "Passed": "Jy het almal deurgekom,",
         "Caption": "Letter opleiding",
@@ -243,15 +243,15 @@
         "Letter mix": "Letter mengsel",
         "In order": "In orde",
         "Write word": "Skryf die woord",
-        "Take letter": "Neem die letter",
-        "Unique": "Neem die unieke brief"
+        "Take letter": "Druk op die letter",
+        "Unique": "Druk op die unieke letter"
     },
     "sq": {
         "Welcome!": "Mirësevjen!",
         "Try": "Provo përsëri, Shtyp,",
         "Very good": "Shumë mirë!",
         "Train more": "Stërvis më shumë nëse dëshiron",
-        "Take": "Mirë! Merr,",
+        "Take": "Mirë! Shtyp,",
         "Press": "Shtyp,",
         "Passed": "Kaluat të gjithë,",
         "Caption": "Trajnimi i shkronjave",
@@ -262,15 +262,15 @@
         "Letter mix": "Përzierje shkronjash",
         "In order": "Në rend",
         "Write word": "Shkruaj fjalën",
-        "Take letter": "Merr shkronjën",
-        "Unique": "Merrni letër unike"
+        "Take letter": "Shtyp shkronjën",
+        "Unique": "Shtyp shkronjën unike"
     },
     "eo": {
         "Welcome!": "Bonvenon!",
         "Try": "Provu denove, Premu,",
         "Very good": "Tre bone!",
         "Train more": "Ekzercu pli se vi volas",
-        "Take": "Bone! Prenu,",
+        "Take": "Bone! Premu,",
         "Press": "Premu sur,",
         "Passed": "Vi sukcesis ĉiujn,",
         "Caption": "Letera trejnado",
@@ -281,15 +281,15 @@
         "Letter mix": "Litera mikso",
         "In order": "En ordo",
         "Write word": "Skribu la vorton",
-        "Take letter": "Prenu la literon",
-        "Unique": "Prenu la unikan literon"
+        "Take letter": "Premu la literon",
+        "Unique": "Premu la unikan literon"
     },
     "et": {
         "Welcome!": "Tere tulemast!",
         "Try": "Proovi uuesti, Vajuta,",
         "Very good": "Väga hea!",
         "Train more": "Harjuta rohkem, kui soovid",
-        "Take": "Hea! Võta,",
+        "Take": "Hea! Vajuta,",
         "Press": "Vajuta,",
         "Passed": "Sa läbisid kõik,",
         "Caption": "Kirjakoolitus",
@@ -300,15 +300,15 @@
         "Letter mix": "Tähe segu",
         "In order": "Järjekorras",
         "Write word": "Kirjuta sõna",
-        "Take letter": "Võta täht",
-        "Unique": "Võta ainulaadne täht"
+        "Take letter": "Vajuta tähte",
+        "Unique": "Vajuta unikaalset tähte"
     },
     "hr": {
         "Welcome!": "Dobrodošli!",
         "Try": "Pokušajte ponovno, Pritisnite,",
         "Very good": "Vrlo dobro!",
         "Train more": "Vježbajte više ako želite",
-        "Take": "Dobro! Uzmi,",
+        "Take": "Dobro! Pritisni,",
         "Press": "Pritisni,",
         "Passed": "Prošli ste sve,",
         "Caption": "Trening slova",
@@ -319,15 +319,15 @@
         "Letter mix": "Miješanje slova",
         "In order": "Redom",
         "Write word": "Napiši riječ",
-        "Take letter": "Uzmi slovo",
-        "Unique": "Uzmite jedinstveno slovo"
+        "Take letter": "Pritisni slovo",
+        "Unique": "Pritisni jedinstveno slovo"
     },
     "ht": {
         "Welcome!": "Byenveni!",
         "Try": "Eseye ankò, Peze,",
         "Very good": "Trè bon!",
         "Train more": "Pratike plis si w vle",
-        "Take": "Bon! Pran,",
+        "Take": "Byen! Pouse,",
         "Press": "Peze sou,",
         "Passed": "Ou pase tout yo,",
         "Caption": "Fòmasyon lèt",
@@ -338,15 +338,15 @@
         "Letter mix": "Melanj lèt",
         "In order": "Nan lòd",
         "Write word": "Ekri mo a",
-        "Take letter": "Pran lèt la",
-        "Unique": "Pran lèt ki unik"
+        "Take letter": "Pouse lèt la",
+        "Unique": "Pouse lèt la ki sòti nan lòt"
     },
     "hu": {
         "Welcome!": "Üdvözöljük!",
         "Try": "Próbáld újra, Nyomd meg,",
         "Very good": "Nagyon jó!",
         "Train more": "Gyakorolj többet, ha szeretnél",
-        "Take": "Jó! Fogd,",
+        "Take": "Jó! Nyomd meg,",
         "Press": "Nyomd meg,",
         "Passed": "Mindent sikerült,",
         "Caption": "Betűk gyakorlása",
@@ -357,15 +357,15 @@
         "Letter mix": "Betű keverék",
         "In order": "Sorrendben",
         "Write word": "Írd le a szót",
-        "Take letter": "Vedd a betűt",
-        "Unique": "Vegye fel az egyedi betűt"
+        "Take letter": "Nyomd meg a betűt",
+        "Unique": "Nyomd meg az egyedi betűt"
     },
     "id": {
         "Welcome!": "Selamat datang!",
         "Try": "Coba lagi, Tekan,",
         "Very good": "Sangat baik!",
         "Train more": "Latihan lebih jika Anda mau",
-        "Take": "Bagus! Ambil,",
+        "Take": "Bagus! Tekan,",
         "Press": "Tekan,",
         "Passed": "Anda lulus semuanya,",
         "Caption": "Pelatihan huruf",
@@ -376,15 +376,15 @@
         "Letter mix": "Campuran huruf",
         "In order": "Urut",
         "Write word": "Tulis kata",
-        "Take letter": "Ambil huruf",
-        "Unique": "Ambil huruf yang unik"
+        "Take letter": "Tekan huruf",
+        "Unique": "Tekan huruf unik"
     },
     "is": {
         "Welcome!": "Velkomin!",
         "Try": "Reyndu aftur, Ýttu,",
         "Very good": "Mjög gott!",
         "Train more": "Æfðu meira ef þú vilt",
-        "Take": "Gott! Taktu,",
+        "Take": "Vel gert! Ýttu á,",
         "Press": "Ýttu á,",
         "Passed": "Þú náðir öllum,",
         "Caption": "Bókstafaþjálfun",
@@ -395,15 +395,15 @@
         "Letter mix": "Stafablanda",
         "In order": "Í röð",
         "Write word": "Skrifaðu orðið",
-        "Take letter": "Taktu stafinn",
-        "Unique": "Taktu einstakt bókstaf"
+        "Take letter": "Ýttu á stafinn",
+        "Unique": "Ýttu á sérstakan staf"
     },
     "lv": {
         "Welcome!": "Laipni lūdzam!",
         "Try": "Mēģiniet vēlreiz, Nospiediet,",
         "Very good": "Ļoti labi!",
         "Train more": "Trenējieties vairāk, ja vēlaties",
-        "Take": "Labi! Ņemiet,",
+        "Take": "Labi! Nospied,",
         "Press": "Nospiediet,",
         "Passed": "Jūs izgājāt visus,",
         "Caption": "Burtu apmācība",
@@ -414,15 +414,15 @@
         "Letter mix": "Burtu maisījums",
         "In order": "Secībā",
         "Write word": "Uzrakstiet vārdu",
-        "Take letter": "Ņemiet burtu",
-        "Unique": "Ņemiet unikālo burtu"
+        "Take letter": "Nospied burtu",
+        "Unique": "Nospied unikālo burtu"
     },
     "lt": {
         "Welcome!": "Sveiki!",
         "Try": "Pabandykite dar kartą, Paspauskite,",
         "Very good": "Labai gerai!",
         "Train more": "Treniruokitės daugiau, jei norite",
-        "Take": "Gerai! Imk,",
+        "Take": "Gerai! Spauskite,",
         "Press": "Spauskite,",
         "Passed": "Jūs įveikėte visus,",
         "Caption": "Raidžių treniruotė",
@@ -433,15 +433,15 @@
         "Letter mix": "Raidžių mišinys",
         "In order": "Eilėje",
         "Write word": "Parašykite žodį",
-        "Take letter": "Imkite raidę",
-        "Unique": "Imkite unikalios raidės"
+        "Take letter": "Spauskite raidę",
+        "Unique": "Spauskite unikalų raides"
     },
     "ro": {
         "Welcome!": "Bine ați venit!",
         "Try": "Încercați din nou, Apăsați,",
         "Very good": "Foarte bine!",
         "Train more": "Exersează mai mult dacă dorești",
-        "Take": "Bine! Ia,",
+        "Take": "Bine! Apasă,",
         "Press": "Apasă,",
         "Passed": "Ai trecut toate,",
         "Caption": "Antrenament de litere",
@@ -452,15 +452,15 @@
         "Letter mix": "Amestec de litere",
         "In order": "În ordine",
         "Write word": "Scrie cuvântul",
-        "Take letter": "Ia litera",
-        "Unique": "Ia litera unică"
+        "Take letter": "Apasă litera",
+        "Unique": "Apasă litera unică"
     },
     "sk": {
         "Welcome!": "Vitajte!",
         "Try": "Skúste znova, Stlačte,",
         "Very good": "Veľmi dobré!",
         "Train more": "Cvič viac, ak chceš",
-        "Take": "Dobré! Vezmi,",
+        "Take": "Dobre! Stlač,",
         "Press": "Stlač,",
         "Passed": "Prešiel si všetkými,",
         "Caption": "Tréning písmen",
@@ -471,15 +471,15 @@
         "Letter mix": "Zmiešané písmená",
         "In order": "V poradí",
         "Write word": "Napíš slovo",
-        "Take letter": "Vezmi písmeno",
-        "Unique": "Vezmite jedinečný písmeno"
+        "Take letter": "Stlač písmeno",
+        "Unique": "Stlač unikátne písmeno"
     },
     "sl": {
         "Welcome!": "Dobrodošli!",
         "Try": "Poskusite znova, Pritisnite,",
         "Very good": "Zelo dobro!",
         "Train more": "Vadi več, če želiš",
-        "Take": "Dobro! Vzemi,",
+        "Take": "Super! Pritisni,",
         "Press": "Pritisnite,",
         "Passed": "Opravil si vse,",
         "Caption": "Trening črk",
@@ -490,15 +490,15 @@
         "Letter mix": "Mešanica črk",
         "In order": "V vrstnem redu",
         "Write word": "Napiši besedo",
-        "Take letter": "Vzemi črko",
-        "Unique": "Vzemite edinstveno črko"
+        "Take letter": "Pritisni črko",
+        "Unique": "Pritisni edinstveno črko"
     },
     "tl": {
         "Welcome!": "Maligayang pagdating!",
         "Try": "Subukan muli, Pindutin,",
         "Very good": "Napakagaling!",
         "Train more": "Mag-ensayo pa kung gusto mo",
-        "Take": "Magaling! Kunin,",
+        "Take": "Maganda! Pindutin,",
         "Press": "Pindutin,",
         "Passed": "Naipasa mo ang lahat,",
         "Caption": "Pagsasanay sa titik",
@@ -509,15 +509,15 @@
         "Letter mix": "Halu-halong titik",
         "In order": "Sa pagkakasunud-sunod",
         "Write word": "Isulat ang salita",
-        "Take letter": "Kunin ang titik",
-        "Unique": "Kumuha ng natatanging titik"
+        "Take letter": "Pindutin ang titik",
+        "Unique": "Pindutin ang natatanging titik"
     },
     "cs": {
         "Welcome!": "Vítejte!",
         "Try": "Zkus to znovu, Stiskni,",
         "Very good": "Velmi dobře!",
         "Train more": "Trénuj více, pokud chceš",
-        "Take": "Dobře! Vem,",
+        "Take": "Skvělé! Stiskni,",
         "Press": "Stiskni,",
         "Passed": "Prošel jsi všemi,",
         "Caption": "Trénink písmen",
@@ -528,15 +528,15 @@
         "Letter mix": "Směs písmen",
         "In order": "V pořadí",
         "Write word": "Napiš slovo",
-        "Take letter": "Vezmi písmeno",
-        "Unique": "Vezměte si unikátní písmeno"
+        "Take letter": "Stiskni písmeno",
+        "Unique": "Stiskni unikátní písmeno"
     },
     "tr": {
         "Welcome!": "Hoş geldiniz!",
         "Try": "Tekrar dene, Bas,",
         "Very good": "Çok iyi!",
         "Train more": "Daha fazla çalışmak istiyorsan",
-        "Take": "İyi! Al,",
+        "Take": "Harika! Bas,",
         "Press": "Basın,",
         "Passed": "Hepsini geçtin,",
         "Caption": "Harf eğitimi",
@@ -547,8 +547,8 @@
         "Letter mix": "Harf karışımı",
         "In order": "Sırayla",
         "Write word": "Kelimeyi yaz",
-        "Take letter": "Harfi al",
-        "Unique": "Benzersiz harfi alın"
+        "Take letter": "Harfi bas",
+        "Unique": "Benzersiz harfi bas"
     },
     "vi": {
         "Welcome!": "Chào mừng!",

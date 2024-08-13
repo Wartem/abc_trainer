@@ -1,0 +1,6 @@
+click==8.1.7
+gTTS==2.5.2
+pygame==2.6.0
+PySide6==6.7.2
+requests==2.32.3
+pillow==8.3.0

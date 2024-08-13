@@ -11,6 +11,7 @@ class TheAlphabet:
         # TODO: FIX LINE BELOW WITH MENU CHOICE
         #self.alphabet_lower += self.extra_chars[lang]
         self.alphabet_lower += start_string
+        
         self.case_versions = {"lower": self._case_lower, "UPPER": self._case_upper, "Both": self._case_insensitive, "Both In Order": self._combined}
         self.chars = self.case_versions[case]()
         self.chars = ''.join(c for c in self.chars if c not in chars_excluded)
@@ -90,7 +91,7 @@ class LetterHandler():
                 self.start_string += vowels[0]
                 vowels = vowels[1:]
         
-        self.alphabet = TheAlphabet(lang, case, chars_excluded, start_string)
+        self.alphabet = TheAlphabet(lang, case, chars_excluded, "") # start_string
         
         # Needs to have all the chars
         self.letters_to_add = [] 
