@@ -52,6 +52,6 @@ This project primarily consists of code written by me (Wartem). However, certain
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Wartem/ABC_Trainer.git
+   git clone git clone https://github.com/Wartem/abc_trainer.git
 
 ## Release with .exe (Windows): https://wartem.itch.io/abc-trainer
